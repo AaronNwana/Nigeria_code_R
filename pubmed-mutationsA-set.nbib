@@ -1,0 +1,1363 @@
+PMID- 34856982
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211213
+LR  - 20220716
+IS  - 1475-2875 (Electronic)
+IS  - 1475-2875 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2021 Dec 2
+TI  - Prevalence of potential mediators of artemisinin resistance in African isolates 
+      of Plasmodium falciparum.
+PG  - 451
+LID - 10.1186/s12936-021-03987-6 [doi]
+LID - 451
+AB  - BACKGROUND: The devastating public health impact of malaria has prompted the need 
+      for effective interventions. Malaria control gained traction after the 
+      introduction of artemisinin-based combination therapy (ACT). However, the 
+      emergence of artemisinin (ART) partial resistance in Southeast Asia and emerging 
+      reports of delayed parasite sensitivity to ACT in African parasites signal a 
+      gradual trend towards treatment failure. Monitoring the prevalence of mutations 
+      associated with artemisinin resistance in African populations is necessary to 
+      stop resistance in its tracks. Mutations in Plasmodium falciparum genes pfk13, 
+      pfcoronin and pfatpase6 have been linked with ART partial resistance. METHODS: 
+      Findings from published research articles on the prevalence of pfk13, pfcoronin 
+      and pfatpase6 polymorphisms in Africa were collated. PubMed, Embase and Google 
+      Scholar were searched for relevant articles reporting polymorphisms in these 
+      genes across Africa from 2014 to August 2021, for pfk13 and pfcoronin. For 
+      pfatpase6, relevant articles between 2003 and August 2021 were retrieved. 
+      RESULTS: Eighty-seven studies passed the inclusion criteria for this analysis and 
+      reported 742 single nucleotide polymorphisms in 37,864 P. falciparum isolates 
+      from 29 African countries. Five validated-pfk13 partial resistance markers were 
+      identified in Africa: R561H in Rwanda and Tanzania, M476I in Tanzania, F446I in 
+      Mali, C580Y in Ghana, and P553L in an Angolan isolate. In Tanzania, three (L263E, 
+      E431K, S769N) of the four mutations (L263E, E431K, A623E, S769N) in pfatpase6 
+      gene associated with high in vitro IC(50) were reported. pfcoronin polymorphisms 
+      were reported in Senegal, Gabon, Ghana, Kenya, and Congo, with P76S being the 
+      most prevalent mutation. CONCLUSIONS: This meta-analysis provides an overview of 
+      the prevalence and widespread distribution of pfk13, pfcoronin and pfatpase6 
+      mutations in Africa. Understanding the phenotypic consequences of these mutations 
+      can provide information on the efficacy status of artemisinin-based treatment of 
+      malaria across the continent.
+CI  - © 2021. The Author(s).
+FAU - Owoloye, Afolabi
+AU  - Owoloye A
+AD  - Genomic Research in Biomedicine Laboratory, Biochemistry and Nutrition 
+      Department, Nigerian Institute of Medical Research, Lagos, Nigeria.
+AD  - Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, 
+      University of Lagos, Lagos, Nigeria.
+FAU - Olufemi, Michael
+AU  - Olufemi M
+AD  - Genomic Research in Biomedicine Laboratory, Biochemistry and Nutrition 
+      Department, Nigerian Institute of Medical Research, Lagos, Nigeria.
+AD  - Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, 
+      University of Lagos, Lagos, Nigeria.
+FAU - Idowu, Emmanuel T
+AU  - Idowu ET
+AD  - Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, 
+      University of Lagos, Lagos, Nigeria.
+FAU - Oyebola, Kolapo M
+AU  - Oyebola KM
+AUID- ORCID: 0000-0002-1003-2570
+AD  - Genomic Research in Biomedicine Laboratory, Biochemistry and Nutrition 
+      Department, Nigerian Institute of Medical Research, Lagos, Nigeria. 
+      oyebolakolapo@yahoo.com.
+AD  - Parasitology and Bioinformatics Unit, Department of Zoology, Faculty of Science, 
+      University of Lagos, Lagos, Nigeria. oyebolakolapo@yahoo.com.
+AD  - Sickle Cell Branch, National Heart Lung and Blood Institute, US National 
+      Institutes of Health, Bethesda, MD, USA. oyebolakolapo@yahoo.com.
+LA  - eng
+GR  - EDCTP_TMA2019CDF-2782/EDCTP_/European &#x26; Developing Countries Clinical Trials 
+      Partnership/Netherlands
+GR  - TMA2019CDF-2782/european and developing countries clinical trials partnership/
+PT  - Journal Article
+PT  - Review
+DEP - 20211202
+PL  - England
+TA  - Malar J
+JT  - Malaria journal
+JID - 101139802
+RN  - 0 (Antimalarials)
+RN  - 0 (Artemisinins)
+RN  - 0 (Microfilament Proteins)
+RN  - 0 (Protozoan Proteins)
+RN  - 145420-64-0 (coronin proteins)
+RN  - EC 3.6.1.- (Adenosine Triphosphatases)
+SB  - IM
+MH  - Adenosine Triphosphatases/genetics/metabolism
+MH  - Antimalarials/*therapeutic use
+MH  - Artemisinins/*therapeutic use
+MH  - Drug Resistance/*drug effects
+MH  - Microfilament Proteins/genetics/metabolism
+MH  - *Plasmodium falciparum/drug effects/enzymology/genetics
+MH  - Protozoan Proteins/*genetics/metabolism
+PMC - PMC8638531
+OTO - NOTNLM
+OT  - Africa
+OT  - Artemisinin-based combination therapy
+OT  - Kelch-13
+OT  - Mutations
+OT  - Partial resistance
+OT  - Pfcoronin
+OT  - Plasmodium falciparum
+OT  - pfatpase6
+COIS- The authors declare no competing interests.
+EDAT- 2021/12/04 06:00
+MHDA- 2021/12/15 06:00
+PMCR- 2021/12/02
+CRDT- 2021/12/03 05:41
+PHST- 2021/07/07 00:00 [received]
+PHST- 2021/11/16 00:00 [accepted]
+PHST- 2021/12/03 05:41 [entrez]
+PHST- 2021/12/04 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/12/02 00:00 [pmc-release]
+AID - 10.1186/s12936-021-03987-6 [pii]
+AID - 3987 [pii]
+AID - 10.1186/s12936-021-03987-6 [doi]
+PST - epublish
+SO  - Malar J. 2021 Dec 2;20(1):451. doi: 10.1186/s12936-021-03987-6.
+
+PMID- 36910307
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240302
+IS  - 0971-7196 (Print)
+IS  - 0975-0703 (Electronic)
+IS  - 0971-7196 (Linking)
+VI  - 47
+IP  - 1
+DP  - 2023 Mar
+TI  - P fmdr 1 and kelch 13 genes distribution among children that are 5 years and 
+      below in Akure, Nigeria.
+PG  - 59-67
+LID - 10.1007/s12639-022-01538-7 [doi]
+AB  - Malaria parasite resistant to drugs has been a major barrier to effective 
+      treatment of malaria. Therefore, the study aimed to evaluate the distribution of 
+      Plasmodium falciparum resistant Kelch protein gene on chromosome 13 (Kelch 13) 
+      and multidrug resistant (Pfmdr1) mutant genes among children aged five years and 
+      below who attended Mother and Child Hospital, Akure, Nigeria. Thin and thick 
+      smears were prepared from the blood collected aseptically through venepuncture 
+      from five hundred (500) children. Structured questionnaires were used to obtain 
+      demographic data from the respondents. Two hundred malaria positive samples were 
+      randomly selected from the 500 samples for PCR analysis to detect Pfmdr1 and 
+      Kelch 13 mutant genes. The results showed that of the 500 respondents, 288 
+      (57.6%) were males while 21 (42.4%) were females. Pfmdr1distribution include: 
+      mixed group (mutant/wild) 38.5%, mutant gene 35.5%, wild gene 20.5% and the 
+      resistant genes were absent in 5.5% of the infected children. The mixed group of 
+      Pfmdr1 gene was higher among infants (51.9%), children with birth order 4 (60.0%) 
+      and children that have blood group B (51.3%), however, there is no significant 
+      difference in the distribution of Pfmdr1 between gender (χ2 = 0.634, df = 1, 
+      p > 0.05). There was a point mutation in the codon position 557 where the amino 
+      acid Alanine was replaced by Serine in the PfK13. The presence of Pfmdr1 mutant 
+      genes and point mutation in the PfK13 gene of P. falciparum among children, calls 
+      for development of innovative drugs targeted on these resistant strains.
+CI  - © Indian Society for Parasitology 2022, Springer Nature or its licensor holds 
+      exclusive rights to this article under a publishing agreement with the author(s) 
+      or other rightsholder(s); author self-archiving of the accepted manuscript 
+      version of this article is solely governed by the terms of such publishing 
+      agreement and applicable law.
+FAU - Afolabi, Olajide Joseph
+AU  - Afolabi OJ
+AUID- ORCID: 0000-0002-8134-8222
+AD  - Parasitology and Public Health Unit, Department of Biology, Federal University of 
+      Technology, Akure, Ondo State Nigeria. GRID: grid.411257.4. ISNI: 0000 0000 9518 
+      4324
+FAU - Oluwafemi, Olubanke Rosena
+AU  - Oluwafemi OR
+AUID- ORCID: 0000-0001-5122-6577
+AD  - Department of Pediatrics, Mother and Child Hospital, Akure, Ondo State Nigeria.
+FAU - Oniya, Mobolanle Oladipo
+AU  - Oniya MO
+AUID- ORCID: 0000-0002-5940-6780
+AD  - Parasitology and Public Health Unit, Department of Biology, Federal University of 
+      Technology, Akure, Ondo State Nigeria. GRID: grid.411257.4. ISNI: 0000 0000 9518 
+      4324
+LA  - eng
+PT  - Journal Article
+DEP - 20221017
+PL  - India
+TA  - J Parasit Dis
+JT  - Journal of parasitic diseases : official organ of the Indian Society for 
+      Parasitology
+JID - 9713059
+PMC - PMC9998786
+OTO - NOTNLM
+OT  - Kelch 13
+OT  - Malaria
+OT  - Pfmdr1 gene
+OT  - Prevalence
+COIS- Competing interestsThe authors declare that they have no competing interests.
+EDAT- 2023/03/14 06:00
+MHDA- 2023/03/14 06:01
+PMCR- 2024/03/01
+CRDT- 2023/03/13 04:10
+PHST- 2022/07/28 00:00 [received]
+PHST- 2022/10/07 00:00 [accepted]
+PHST- 2023/03/13 04:10 [entrez]
+PHST- 2023/03/14 06:00 [pubmed]
+PHST- 2023/03/14 06:01 [medline]
+PHST- 2024/03/01 00:00 [pmc-release]
+AID - 1538 [pii]
+AID - 10.1007/s12639-022-01538-7 [doi]
+PST - ppublish
+SO  - J Parasit Dis. 2023 Mar;47(1):59-67. doi: 10.1007/s12639-022-01538-7. Epub 2022 
+      Oct 17.
+
+PMID- 31308714
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1178-6973 (Print)
+IS  - 1178-6973 (Electronic)
+IS  - 1178-6973 (Linking)
+VI  - 12
+DP  - 2019
+TI  - Epidemiology of Plasmodium falciparum infection and drug resistance markers in 
+      Ota Area, Southwestern Nigeria.
+PG  - 1941-1949
+LID - 10.2147/IDR.S190386 [doi]
+AB  - Purpose: Effective routine monitoring and surveillance of parasite genes is a 
+      necessary strategy in the control of parasites' resistance to antimalarial drugs, 
+      according to the WHO's recommendation. This cross-sectional study therefore aimed 
+      at carrying out an epidemiological analysis on malaria incidence in Ado-Odo/Ota, 
+      Ogun State. Patients and methods: Blood and corresponding saliva samples were 
+      collected from 1,243 subjects of all ages and sex presenting with fever and a 
+      parasitemia level ≥2,000 between September 2016 and March 2018. Samples were 
+      collected from selected health facilities in the study area of Ogun state to 
+      establish the prevalence of falciparum malaria and determine resistance genes 
+      harbored by the parasites. The overall prevalence of falciparum malaria in the 
+      study site by microscopic examination was 45.86%. The highest incidence of 57.42% 
+      was recorded among male subjects. Point mutations of K76T and N86Y in the Pfcrt 
+      and pfmdr-1 genes, as well as non-synonymous mutations in Pfk13 genes, were 
+      screened for and sequenced for further analysis. Results: Pfcrt was detectable in 
+      57.42% of blood and 51.02% of saliva samples, respectively. About 34.78% of the 
+      subjects that were confirmed microscopically harbored the Pfmdr-1 mutated gene 
+      while 26.67% of the saliva samples revealed Pfmdr-1. Epidemiological studies 
+      identified the presence of wild-type Pfk13 genes in 21.84% of blood and 44.44% of 
+      saliva samples correspondingly. For each of the genes evaluated, saliva portrayed 
+      great diagnostic performance when compared with blood. Conclusion: Findings from 
+      this study have established the prevalence of malaria and the resistance pattern 
+      of P. falciparum in the study area. The findings may help in formulating drug 
+      policies and suggest the use of saliva as a noninvasive point-of-care method of 
+      diagnosing malaria potentially deployable to rural endemic areas.
+FAU - Olasehinde, G I
+AU  - Olasehinde GI
+AD  - Department of Biological Sciences.
+FAU - Diji-Geske, R I
+AU  - Diji-Geske RI
+AD  - Department of Biological Sciences.
+FAU - Fadina, I
+AU  - Fadina I
+AD  - Department of Biological Sciences.
+FAU - Arogundade, D
+AU  - Arogundade D
+AD  - Department of Biological Sciences.
+FAU - Darby, P
+AU  - Darby P
+AD  - Department of Biological Sciences.
+FAU - Adeleke, A
+AU  - Adeleke A
+AD  - Department of Biological Sciences.
+FAU - Dokunmu, T M
+AU  - Dokunmu TM
+AD  - Department of Biochemistry.
+FAU - Adebayo, A H
+AU  - Adebayo AH
+AD  - Department of Biochemistry.
+FAU - Oyelade, J
+AU  - Oyelade J
+AD  - Department of Computer and Information Sciences, Covenant University, Ota, Ogun 
+      State, Nigeria.
+LA  - eng
+PT  - Journal Article
+DEP - 20190705
+PL  - New Zealand
+TA  - Infect Drug Resist
+JT  - Infection and drug resistance
+JID - 101550216
+PMC - PMC6616117
+OTO - NOTNLM
+OT  - Ado-Odo/Ota
+OT  - malaria
+OT  - prevalence
+OT  - resistance
+COIS- The authors report no conflicts of interest in this work.
+EDAT- 2019/07/17 06:00
+MHDA- 2019/07/17 06:01
+PMCR- 2019/07/05
+CRDT- 2019/07/17 06:00
+PHST- 2018/10/10 00:00 [received]
+PHST- 2019/03/13 00:00 [accepted]
+PHST- 2019/07/17 06:00 [entrez]
+PHST- 2019/07/17 06:00 [pubmed]
+PHST- 2019/07/17 06:01 [medline]
+PHST- 2019/07/05 00:00 [pmc-release]
+AID - 190386 [pii]
+AID - 10.2147/IDR.S190386 [doi]
+PST - epublish
+SO  - Infect Drug Resist. 2019 Jul 5;12:1941-1949. doi: 10.2147/IDR.S190386. 
+      eCollection 2019.
+
+PMID- 34758836
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211203
+LR  - 20211214
+IS  - 1475-2875 (Electronic)
+IS  - 1475-2875 (Linking)
+VI  - 20
+IP  - 1
+DP  - 2021 Nov 10
+TI  - Absence of Plasmodium falciparum artemisinin resistance gene mutations eleven 
+      years after the adoption of artemisinin-based combination therapy in Nigeria.
+PG  - 434
+LID - 10.1186/s12936-021-03968-9 [doi]
+LID - 434
+AB  - BACKGROUND: The occurrence of artemisinin resistance (ART)-associated 
+      polymorphism of Plasmodium falciparum K13-propeller (pfk13) gene before and after 
+      the introduction of artemisinin-based combination therapy (ACT) in two regions of 
+      Nigeria was investigated in this study. Regular surveillance is necessary to make 
+      a definite conclusion on the emergence and pattern of possible resistance to ART. 
+      METHODS: This cross-sectional study was carried out in the Southwestern and 
+      Southeastern geopolitical zones of Nigeria. A total of 150, 217, and 475 
+      participants were enrolled for the study in the Southwest (2004_Group A), 
+      Southwest (2015_Group B), and southeast (2015_Group C), respectively. Blood 
+      samples were collected from the study participants for DNA extraction and a 
+      nested PCR for P. falciparum identification. Samples that were positive for P. 
+      falciparum were genotyped for the pfk13 gene using the Sanger sequencing method. 
+      The single nucleotide polymorphisms were analysed using the Bioedit software. 
+      RESULTS: A total of 116, 125, and 83 samples were positive for P. falciparum, 
+      respectively for the samples collected from the Southwest (2004 and 2015) and 
+      southeast (2015). Parasite DNA samples collected from febrile children in 2004 
+      (Group A; n = 71) and 2015 (Group B; n = 73) in Osogbo Western Nigeria and 
+      2015_Group C (n = 36) in southeast Nigeria were sequenced successfully. This 
+      study did not observe mutations associated with the in vitro resistance in 
+      southeast Asia, such as Y493H, R539T, I543T, and C580Y. Two new polymorphisms 
+      V520A and V581I were observed in two samples collected in Osogbo, Southwest 
+      Nigeria. These two mutations occurred in the year 2004 (Group A) before the 
+      introduction of ACT. Six mutations were identified in 17% of the samples 
+      collected in southeast Nigeria. One of these mutations (D547G) was 
+      non-synonymous, while the remaining (V510V, R515R, Q613Q, E688E, and N458N) were 
+      synonymous. Also, one (2%) heterozygote allele was identified at codon 458 in the 
+      2015 (Group C) samples. CONCLUSIONS: None of the mutations observed in this study 
+      were previously validated to be associated with ART resistance. These results, 
+      therefore, suggest that artemisinin is likely to remain highly effective in 
+      treating malaria in the study areas that are malarious zone.
+CI  - © 2021. The Author(s).
+FAU - Ikegbunam, Moses
+AU  - Ikegbunam M
+AUID- ORCID: 0000-0001-5264-9256
+AD  - Institute for Tropical Medicine, Tübingen, Germany. 
+      moses.ikegbunam@uni-tuebingen.de.
+AD  - Department of Pharmaceutical Microbiology and Biotechnology, Nnamdi Azikiwe 
+      University, Awka, Nigeria. moses.ikegbunam@uni-tuebingen.de.
+AD  - Molecular Research Foundation for Students and Scientists, Nnamdi Azikiwe 
+      University, Awka, Nigeria. moses.ikegbunam@uni-tuebingen.de.
+FAU - Ojo, Johnson A
+AU  - Ojo JA
+AD  - Department of Medical Microbiology & Parasitology, Ladoke Akintola University of 
+      Technology, Ogbomoso, Nigeria.
+FAU - Kokou, Kossiwa
+AU  - Kokou K
+AD  - Molecular Research Foundation for Students and Scientists, Nnamdi Azikiwe 
+      University, Awka, Nigeria.
+FAU - Morikwe, Ugonna
+AU  - Morikwe U
+AD  - Institute for Tropical Medicine, Tübingen, Germany.
+FAU - Nworu, Chukwuemeka
+AU  - Nworu C
+AD  - Department of Pharmacology and Toxicology, University of Nigeria, Nsukka, 
+      Nigeria.
+FAU - Uba, Chibuzo
+AU  - Uba C
+AD  - Institute for Tropical Medicine, Tübingen, Germany.
+FAU - Esimone, Charles
+AU  - Esimone C
+AD  - Institute for Tropical Medicine, Tübingen, Germany.
+AD  - Department of Pharmaceutical Microbiology and Biotechnology, Nnamdi Azikiwe 
+      University, Awka, Nigeria.
+FAU - Velavan, Thirumalaisamy P
+AU  - Velavan TP
+AD  - Institute for Tropical Medicine, Tübingen, Germany.
+AD  - Faculty of Medicine, Duy Tan University, Da Nang, Vietnam.
+FAU - Ojurongbe, Olusola
+AU  - Ojurongbe O
+AD  - Department of Medical Microbiology & Parasitology, Ladoke Akintola University of 
+      Technology, Ogbomoso, Nigeria.
+LA  - eng
+PT  - Journal Article
+DEP - 20211110
+PL  - England
+TA  - Malar J
+JT  - Malaria journal
+JID - 101139802
+RN  - 0 (Antimalarials)
+RN  - 0 (Artemisinins)
+RN  - 9RMU91N5K2 (artemisinin)
+SB  - IM
+MH  - Antimalarials/*pharmacology
+MH  - Artemisinins/*pharmacology
+MH  - Child
+MH  - Child, Preschool
+MH  - Cross-Sectional Studies
+MH  - Drug Resistance/genetics
+MH  - Female
+MH  - Humans
+MH  - Infant
+MH  - Kelch Repeat/genetics
+MH  - Male
+MH  - Mutation
+MH  - Nigeria
+MH  - Plasmodium falciparum/*drug effects/*genetics
+MH  - Polymorphism, Single Nucleotide/genetics
+PMC - PMC8579633
+OTO - NOTNLM
+OT  - Artemisinin
+OT  - Drug resistance
+OT  - Malaria
+OT  - Nigeria
+OT  - Pfkelch13
+OT  - Plasmodium falciparum
+COIS- The authors declare no conflict of interest. The funders had no role in the 
+      study's design; in the collection, analyses, or interpretation of data; in the 
+      writing of the manuscript, or in the decision to publish the results".
+EDAT- 2021/11/12 06:00
+MHDA- 2021/12/15 06:00
+PMCR- 2021/11/10
+CRDT- 2021/11/11 05:43
+PHST- 2021/05/12 00:00 [received]
+PHST- 2021/10/29 00:00 [accepted]
+PHST- 2021/11/11 05:43 [entrez]
+PHST- 2021/11/12 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/11/10 00:00 [pmc-release]
+AID - 10.1186/s12936-021-03968-9 [pii]
+AID - 3968 [pii]
+AID - 10.1186/s12936-021-03968-9 [doi]
+PST - epublish
+SO  - Malar J. 2021 Nov 10;20(1):434. doi: 10.1186/s12936-021-03968-9.
+
+PMID- 31533729
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191226
+LR  - 20200225
+IS  - 1475-2875 (Electronic)
+IS  - 1475-2875 (Linking)
+VI  - 18
+IP  - 1
+DP  - 2019 Sep 18
+TI  - Rare mutations in Pfmdr1 gene of Plasmodium falciparum detected in clinical 
+      isolates from patients treated with anti-malarial drug in Nigeria.
+PG  - 319
+LID - 10.1186/s12936-019-2947-z [doi]
+LID - 319
+AB  - BACKGROUND: Plasmodium falciparum, the deadliest causative agent of malaria, has 
+      high prevalence in Nigeria. Drug resistance causing failure of previously 
+      effective drugs has compromised anti-malarial treatment. On this basis, there is 
+      need for a proactive surveillance for resistance markers to the currently 
+      recommended artemisinin-based combination therapy (ACT), for early detection of 
+      resistance before it become widespread. METHODS: This study assessed 
+      anti-malarial resistance genes polymorphism in patients with uncomplicated P. 
+      falciparum malaria in Lagos, Nigeria. Sanger and Next Generation Sequencing (NGS) 
+      methods were used to screen for mutations in thirty-seven malaria positive blood 
+      samples targeting the P. falciparum chloroquine-resistance transporter (Pfcrt), 
+      P. falciparum multidrug-resistance 1 (Pfmdr1), and P. falciparum kelch 13 (Pfk13) 
+      genes, which have been previously associated with anti-malarial resistance. 
+      RESULTS: Expectedly, the NGS method was more proficient, detecting six Pfmdr1, 
+      seven Pfcrt and three Pfk13 mutations in the studied clinical isolates from 
+      Nigeria, a malaria endemic area. These mutations included rare Pfmdr1 mutations, 
+      N504K, N649D, F938Y and S967N, which were previously unreported. In addition, 
+      there was moderate prevalence of the K76T mutation (34.6%) associated with 
+      chloroquine and amodiaquine resistance, and high prevalence of the N86 wild type 
+      allele (92.3%) associated with lumefantrine resistance. CONCLUSION: Widespread 
+      circulation of mutations associated with resistance to current anti-malarial 
+      drugs could potentially limit effective malaria therapy in endemic populations.
+FAU - Idowu, Abel O
+AU  - Idowu AO
+AD  - Department of Biomedical Sciences, College of Health Sciences, University of 
+      Wisconsin, 2400 E. Hartford Avenue, Milwaukee, WI, 53211, USA.
+AD  - Department of Pharmaceutics and Pharmaceutical Technology, Faculty of Pharmacy, 
+      University of Lagos, Lagos, Nigeria.
+FAU - Oyibo, Wellington A
+AU  - Oyibo WA
+AD  - ANDI Centre of Excellence in Malaria Diagnosis, College of Medicine, University 
+      of Lagos, Lagos, Nigeria.
+FAU - Bhattacharyya, Sanjib
+AU  - Bhattacharyya S
+AD  - City of Milwaukee Health Department Laboratory, Milwaukee, USA.
+FAU - Khubbar, Manjeet
+AU  - Khubbar M
+AD  - City of Milwaukee Health Department Laboratory, Milwaukee, USA.
+FAU - Mendie, Udoma E
+AU  - Mendie UE
+AD  - Department of Pharmaceutics and Pharmaceutical Technology, Faculty of Pharmacy, 
+      University of Lagos, Lagos, Nigeria.
+FAU - Bumah, Violet V
+AU  - Bumah VV
+AD  - Department of Biology, North Life Science 317, San Diego State University, San 
+      Diego, CA, 92182, USA.
+FAU - Black, Carolyn
+AU  - Black C
+AD  - Molecular Pathogenesis Laboratory, National Center for Emerging and Zoonotic 
+      Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, GA, 
+      USA.
+FAU - Igietseme, Joseph
+AU  - Igietseme J
+AD  - Molecular Pathogenesis Laboratory, National Center for Emerging and Zoonotic 
+      Infectious Diseases, Centers for Disease Control and Prevention, Atlanta, GA, 
+      USA.
+FAU - Azenabor, Anthony A
+AU  - Azenabor AA
+AD  - Department of Biomedical Sciences, College of Health Sciences, University of 
+      Wisconsin, 2400 E. Hartford Avenue, Milwaukee, WI, 53211, USA. 
+      caxisonny@gmail.com.
+AD  - Department of Pharmaceutics and Pharmaceutical Technology, Faculty of Pharmacy, 
+      University of Lagos, Lagos, Nigeria. caxisonny@gmail.com.
+LA  - eng
+GR  - 15160886/Nigeria-US Fulbright Commission/
+PT  - Journal Article
+DEP - 20190918
+PL  - England
+TA  - Malar J
+JT  - Malaria journal
+JID - 101139802
+RN  - 0 (Antimalarials)
+RN  - 0 (Mdr1 protein, Plasmodium falciparum)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (Multidrug Resistance-Associated Proteins)
+RN  - 0 (PfCRT protein, Plasmodium falciparum)
+RN  - 0 (Protozoan Proteins)
+SB  - IM
+MH  - Antimalarials/*therapeutic use
+MH  - Drug Resistance/*genetics
+MH  - Membrane Transport Proteins/genetics/metabolism
+MH  - Multidrug Resistance-Associated Proteins/*genetics/metabolism
+MH  - *Mutation
+MH  - Nigeria/epidemiology
+MH  - Plasmodium falciparum/drug effects/*genetics
+MH  - *Polymorphism, Genetic
+MH  - Prevalence
+MH  - Protozoan Proteins/genetics/metabolism
+PMC - PMC6751857
+OTO - NOTNLM
+OT  - Antimalarial gene polymorphism
+OT  - Infectious disease epidemiology
+OT  - Malaria
+OT  - Parasitic disease epidemiology and control
+OT  - Plasmodium
+COIS- The authors declare that they have no competing interests.
+EDAT- 2019/09/20 06:00
+MHDA- 2019/12/27 06:00
+PMCR- 2019/09/18
+CRDT- 2019/09/20 06:00
+PHST- 2019/02/22 00:00 [received]
+PHST- 2019/09/06 00:00 [accepted]
+PHST- 2019/09/20 06:00 [entrez]
+PHST- 2019/09/20 06:00 [pubmed]
+PHST- 2019/12/27 06:00 [medline]
+PHST- 2019/09/18 00:00 [pmc-release]
+AID - 10.1186/s12936-019-2947-z [pii]
+AID - 2947 [pii]
+AID - 10.1186/s12936-019-2947-z [doi]
+PST - epublish
+SO  - Malar J. 2019 Sep 18;18(1):319. doi: 10.1186/s12936-019-2947-z.
+
+PMID- 35226694
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240725
+LR  - 20240829
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 17
+IP  - 2
+DP  - 2022
+TI  - Molecular profiling of the artemisinin resistance Kelch 13 gene in Plasmodium 
+      falciparum from Nigeria.
+PG  - e0264548
+LID - 10.1371/journal.pone.0264548 [doi]
+LID - e0264548
+AB  - Accurate assessment and monitoring of the Plasmodium falciparum Kelch 13 (pfk13) 
+      gene associated with artemisinin resistance is critical to understand the 
+      emergence and spread of drug-resistant parasites in malaria-endemic regions. In 
+      this study, we evaluated the genomic profile of the pfk13 gene associated with 
+      artemisinin resistance in P. falciparum in Nigerian children by targeted 
+      sequencing of the pfk13 gene. Genomic DNA was extracted from 332 dried blood 
+      (DBS) spot filter paper samples from three Nigerian States. The pfk13 gene was 
+      amplified by nested polymerase chain reaction (PCR), and amplicons were sequenced 
+      to detect known and novel polymorphisms across the gene. Consensus sequences of 
+      samples were mapped to the reference gene sequence obtained from the National 
+      Center for Biotechnology Information (NCBI). Out of the 13 single nucleotide 
+      polymorphisms (SNPs) detected in the pfk13 gene, five (F451L, N664I, V487E, V692G 
+      and Q661H) have not been reported in other endemic countries to the best of our 
+      knowledge. Three of these SNPs (V692G, N664I and Q661H) and a non-novel SNP, 
+      C469C, were consistent with late parasitological failure (LPF) in two States 
+      (Enugu and Plateau States). There was no validated mutation associated with 
+      artemisinin resistance in this study. However, a correlation of our study with in 
+      vivo and in vitro phenotypes is needed to establish the functional role of 
+      detected mutations as markers of artemisinin resistance in Nigeria. This baseline 
+      information will be essential in tracking and monitoring P. falciparum resistance 
+      to artemisinin in Nigeria.
+FAU - Ajogbasile, Fehintola V
+AU  - Ajogbasile FV
+AUID- ORCID: 0000-0002-3149-3085
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+AD  - Department of Biological Sciences, Faculty of Natural Sciences, Redeemer's 
+      University, Ede, Osun State, Nigeria.
+FAU - Oluniyi, Paul E
+AU  - Oluniyi PE
+AUID- ORCID: 0000-0002-2651-2149
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+AD  - Department of Biological Sciences, Faculty of Natural Sciences, Redeemer's 
+      University, Ede, Osun State, Nigeria.
+FAU - Kayode, Adeyemi T
+AU  - Kayode AT
+AUID- ORCID: 0000-0003-4249-9850
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+AD  - Department of Biological Sciences, Faculty of Natural Sciences, Redeemer's 
+      University, Ede, Osun State, Nigeria.
+FAU - Akano, Kazeem O
+AU  - Akano KO
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+AD  - Department of Biological Sciences, Faculty of Natural Sciences, Redeemer's 
+      University, Ede, Osun State, Nigeria.
+FAU - Adegboyega, Benjamin B
+AU  - Adegboyega BB
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+FAU - Philip, Courage
+AU  - Philip C
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+FAU - Ogbulafor, Nnenna
+AU  - Ogbulafor N
+AD  - National Malaria Elimination Programme, The Federal Ministry of Health, Abuja, 
+      Nigeria.
+FAU - Okafor, Henrietta U
+AU  - Okafor HU
+AD  - Department of Pediatrics, Institute of Child Health, University of Nigeria 
+      Teaching Hospital, Enugu, Nigeria.
+FAU - Oguche, Stephen
+AU  - Oguche S
+AD  - Department of Paediatrics, Faculty of Clinical Sciences, College of Health 
+      Sciences, University of Jos/Jos University Teaching Hospital, Jos, Nigeria.
+FAU - Wammanda, Robinson D
+AU  - Wammanda RD
+AD  - Department of Paediatrics, Ahmadu Bello University, Zaria, Nigeria.
+FAU - Mokuolu, Olugbenga A
+AU  - Mokuolu OA
+AD  - Department of Paediatrics and Child Health, University of Ilorin, Ilorin, 
+      Nigeria.
+FAU - Folarin, Onikepe A
+AU  - Folarin OA
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+AD  - Department of Biological Sciences, Faculty of Natural Sciences, Redeemer's 
+      University, Ede, Osun State, Nigeria.
+FAU - Happi, Christian T
+AU  - Happi CT
+AUID- ORCID: 0000-0002-3056-6705
+AD  - African Center of Excellence for Genomics of Infectious Diseases (ACEGID), 
+      Redeemer's University, Ede, Osun State, Nigeria.
+AD  - Department of Biological Sciences, Faculty of Natural Sciences, Redeemer's 
+      University, Ede, Osun State, Nigeria.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20220228
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Artemisinins)
+RN  - 0 (Antimalarials)
+RN  - 9RMU91N5K2 (artemisinin)
+RN  - 0 (Protozoan Proteins)
+MH  - *Plasmodium falciparum/genetics/drug effects
+MH  - *Artemisinins/pharmacology/therapeutic use
+MH  - Nigeria
+MH  - *Polymorphism, Single Nucleotide
+MH  - Humans
+MH  - *Drug Resistance/genetics
+MH  - *Antimalarials/pharmacology/therapeutic use
+MH  - *Protozoan Proteins/genetics
+MH  - *Malaria, Falciparum/parasitology/drug therapy/genetics
+MH  - Child
+PMC - PMC8884509
+COIS- The authors have declared that no competing interests exist.
+EDAT- 2022/03/01 06:00
+MHDA- 2022/03/11 06:00
+PMCR- 2022/02/28
+CRDT- 2022/02/28 17:11
+PHST- 2021/08/05 00:00 [received]
+PHST- 2022/02/14 00:00 [accepted]
+PHST- 2022/02/28 17:11 [entrez]
+PHST- 2022/03/01 06:00 [pubmed]
+PHST- 2022/03/11 06:00 [medline]
+PHST- 2022/02/28 00:00 [pmc-release]
+AID - PONE-D-21-25383 [pii]
+AID - 10.1371/journal.pone.0264548 [doi]
+PST - epublish
+SO  - PLoS One. 2022 Feb 28;17(2):e0264548. doi: 10.1371/journal.pone.0264548. 
+      eCollection 2022.
+
+PMID- 33968801
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210705
+LR  - 20210705
+IS  - 2235-2988 (Electronic)
+IS  - 2235-2988 (Linking)
+VI  - 11
+DP  - 2021
+TI  - Surveillance of Antimalarial Drug-Resistance Genes in Imported Plasmodium 
+      falciparum Isolates From Nigeria in Henan, China, 2012-2019.
+PG  - 644576
+LID - 10.3389/fcimb.2021.644576 [doi]
+LID - 644576
+AB  - Malaria remains a major public health issue in Nigeria, and Nigeria is one of the 
+      main sources of imported malaria in China. Antimalarial drug resistance is a 
+      significant obstacle to the control and prevention of malaria globally. The 
+      molecular markers associated with antimalarial drug resistance can provide early 
+      warnings about the emergence of resistance. The prevalence of antimalarial drug 
+      resistant genes and mutants, including PfK13, Pfcrt, Pfmdr1, Pfdhfr, and Pfdhps, 
+      was evaluated among the imported Plasmodium falciparum isolates from Nigeria in 
+      Henan, China, from 2012 to 2019. Among the 167 imported P. falciparum isolates, 
+      the wild-type frequency of PfK13, Pfcrt, Pfmdr1, Pfdhfr, and Pfdhps was 98.7, 
+      63.9, 34.8, 3.1, and 3.1%, respectively. The mutation of PfK13 was rare, with 
+      just two nonsynonymous (S693F and Q613H) and two synonymous mutations (C469C and 
+      G496G) identified from four isolates. The prevalence of Pfcrt mutation at codon 
+      74-76 decreased year-by-year, while the prevalence of pfmdr1 86Y also decreased 
+      significantly with time. The prevalence of Pfdhfr and Pfdhps mutants was high. 
+      Combined mutations of Pfdhfr and Pfdhps had a high prevalence of the quadruple 
+      mutant I(51)R(59)N(108)-G(437) (39.0%), followed by the octal mutant 
+      I(51)R(59)N(108)-V(431)A(436)G(437)G(581)S(613) (17.0%). These molecular findings 
+      update the known data on antimalarial drug-resistance genes and provide 
+      supplemental information for Nigeria.
+CI  - Copyright © 2021 Zhao, Zhang, Ji, Li, Yang, Liu, Qian, Deng, Wang, Lu, Zhou and 
+      Zhao.
+FAU - Zhao, Dongyang
+AU  - Zhao D
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Zhang, Hongwei
+AU  - Zhang H
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Ji, Penghui
+AU  - Ji P
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Li, Suhua
+AU  - Li S
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Yang, Chengyun
+AU  - Yang C
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Liu, Ying
+AU  - Liu Y
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Qian, Dan
+AU  - Qian D
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Deng, Yan
+AU  - Deng Y
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Wang, Hao
+AU  - Wang H
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Lu, Deling
+AU  - Lu D
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Zhou, Ruimin
+AU  - Zhou R
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+FAU - Zhao, Yuling
+AU  - Zhao Y
+AD  - Department of Parasite Disease Control and Prevention, Henan Provincial Center 
+      for Disease Control and Prevention, Henan Key Laboratory of Infectious Disease 
+      Microbiology, Zhengzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210423
+PL  - Switzerland
+TA  - Front Cell Infect Microbiol
+JT  - Frontiers in cellular and infection microbiology
+JID - 101585359
+RN  - 0 (Antimalarials)
+RN  - 0 (Protozoan Proteins)
+SB  - IM
+MH  - *Antimalarials
+MH  - China
+MH  - Humans
+MH  - *Malaria, Falciparum
+MH  - Nigeria
+MH  - Plasmodium falciparum
+MH  - Protozoan Proteins
+PMC - PMC8102827
+OTO - NOTNLM
+OT  - Nigeria
+OT  - PfK13
+OT  - Pfcrt
+OT  - Pfdhfr
+OT  - Pfdhps
+OT  - Pfmdr1
+OT  - Plasmodium falciparum
+OT  - drug resistance
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2021/05/11 06:00
+MHDA- 2021/07/06 06:00
+PMCR- 2021/01/01
+CRDT- 2021/05/10 06:28
+PHST- 2020/12/21 00:00 [received]
+PHST- 2021/03/31 00:00 [accepted]
+PHST- 2021/05/10 06:28 [entrez]
+PHST- 2021/05/11 06:00 [pubmed]
+PHST- 2021/07/06 06:00 [medline]
+PHST- 2021/01/01 00:00 [pmc-release]
+AID - 10.3389/fcimb.2021.644576 [doi]
+PST - epublish
+SO  - Front Cell Infect Microbiol. 2021 Apr 23;11:644576. doi: 
+      10.3389/fcimb.2021.644576. eCollection 2021.
+
+PMID- 35470127
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20221028
+LR  - 20221028
+IS  - 1567-7257 (Electronic)
+IS  - 1567-1348 (Linking)
+VI  - 101
+DP  - 2022 Jul
+TI  - Single-nucleotide polymorphisms of artemisinin resistance-related pfubp1 and 
+      pfap2mu genes in imported Plasmodium falciparum to Wuhan, China.
+PG  - 105286
+LID - S1567-1348(22)00083-1 [pii]
+LID - 10.1016/j.meegid.2022.105286 [doi]
+AB  - BACKGROUND: Molecular markers for monitoring resistance could help improve 
+      malaria treatment policies. Delayed clearance of Plasmodium falciparum by 
+      artemisinin-based combination therapies (ACTs) has been reported in several 
+      countries. In addition to PfKelch13 (pfk13), new drug resistance genes, P. 
+      falciparum ubiquitin-specific protease 1 (pfubp1) and the eadaptor protein 
+      complex 2 mu subunit (pfap2mu), have been identified as being linked to ACTs. 
+      This study investigated the prevalence of single-nucleotide polymorphisms (SNPs) 
+      in clinical P. falciparum isolates pfubp1 and pfap2mu imported from Africa and 
+      Southeast Asia (SEA) to Wuhan, China, to provide baseline data for antimalarial 
+      resistance monitoring in this region. METHODS: Peripheral venous blood samples 
+      were collected in Wuhan, China, from August 2011 to December 2019. The Pfubp1 and 
+      pfap2mu SNPs of P. falciparum were determined by nested PCR and Sanger 
+      sequencing. RESULTS: In total, 296 samples were collected. Subsequently, 92.23% 
+      (273/296) were successfully amplified and sequenced for Pfubp1. There were 60.07% 
+      (164/273) wild-type strains and 39.93% (109/273) mutant strains. The pfap2mu gene 
+      was divided into three fragments for amplification, and 82.77% (245/296), 90.20% 
+      (267/296) and 94.59% (280/296) were sequenced successfully. Genotypes reportedly 
+      associated with ACTs resistance detected in this study included pfubp1 D1525E as 
+      well as E1528D and pfap2mu S160N. The mutation prevalence rates were 10.99% 
+      (30/273), 13.19% (36/273) and 11.24% (30/267), respectively. These are all 
+      focused on Congo, Nigeria and Angola. Known delayed-clearance parasite mutations 
+      have also been found in SEA. CONCLUSIONS: The existence of mutation sites of 
+      known clearance genes detected in the isolates in this study, including D1525E 
+      and E1528D in the pfubp1 gene and S160N in the pfap2mu gene, further proved the 
+      risk of ACTs resistance. Constant vigilance is therefore needed to protect the 
+      effectiveness of ACTs and to prevent the spread of drug-resistant P. falciparum. 
+      Further studies in malaria-endemic countries are needed to further validate 
+      potential genetic markers for monitoring parasite populations in Africa and SEA.
+CI  - Copyright © 2022 The Authors. Published by Elsevier B.V. All rights reserved.
+FAU - Cheng, Weijia
+AU  - Cheng W
+AD  - School of Basic Medical Sciences, Hubei University of Medicine, Shiyan 442000, 
+      China; Department of Infectious Diseases, Renmin Hospital, Hubei University of 
+      Medicine, Shiyan 442000, China.
+FAU - Wu, Kai
+AU  - Wu K
+AD  - Department of Schistosomiasis and Endemic Diseases, Wuhan City Center for Disease 
+      Prevention and Control, Wuhan 430024, China.
+FAU - Song, Xiaonan
+AU  - Song X
+AD  - School of Basic Medical Sciences, Hubei University of Medicine, Shiyan 442000, 
+      China; Department of Infectious Diseases, Renmin Hospital, Hubei University of 
+      Medicine, Shiyan 442000, China.
+FAU - Wang, Wei
+AU  - Wang W
+AD  - Jiangsu Institute of Parasitic Diseases, Wuxi, Jiangsu Province 214064, People's 
+      Republic of China.
+FAU - Du, Weixing
+AU  - Du W
+AD  - Department of Infectious Diseases, Renmin Hospital, Hubei University of Medicine, 
+      Shiyan 442000, China.
+FAU - Li, Jian
+AU  - Li J
+AD  - School of Basic Medical Sciences, Hubei University of Medicine, Shiyan 442000, 
+      China; Department of Infectious Diseases, Renmin Hospital, Hubei University of 
+      Medicine, Shiyan 442000, China. Electronic address: pvivax@163.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20220422
+PL  - Netherlands
+TA  - Infect Genet Evol
+JT  - Infection, genetics and evolution : journal of molecular epidemiology and 
+      evolutionary genetics in infectious diseases
+JID - 101084138
+RN  - 0 (Antimalarials)
+RN  - 0 (Artemisinins)
+RN  - 0 (Protozoan Proteins)
+SB  - IM
+MH  - Animals
+MH  - Angola
+MH  - *Antimalarials/pharmacology/therapeutic use
+MH  - *Artemisinins/pharmacology/therapeutic use
+MH  - China/epidemiology
+MH  - Drug Resistance/genetics
+MH  - *Malaria/drug therapy
+MH  - *Malaria, Falciparum/drug therapy/epidemiology/parasitology
+MH  - Mutation
+MH  - *Parasites
+MH  - Plasmodium falciparum/genetics
+MH  - Polymorphism, Single Nucleotide
+MH  - Protozoan Proteins/genetics/metabolism
+OTO - NOTNLM
+OT  - Artemisinin-based Combination Therapies
+OT  - Drug resistance
+OT  - Molecular surveillance
+OT  - Plasmodium falciparum
+OT  - Single-nucleotide polymorphisms
+EDAT- 2022/04/27 06:00
+MHDA- 2022/06/01 06:00
+CRDT- 2022/04/26 05:58
+PHST- 2021/09/06 00:00 [received]
+PHST- 2022/04/12 00:00 [revised]
+PHST- 2022/04/20 00:00 [accepted]
+PHST- 2022/04/27 06:00 [pubmed]
+PHST- 2022/06/01 06:00 [medline]
+PHST- 2022/04/26 05:58 [entrez]
+AID - S1567-1348(22)00083-1 [pii]
+AID - 10.1016/j.meegid.2022.105286 [doi]
+PST - ppublish
+SO  - Infect Genet Evol. 2022 Jul;101:105286. doi: 10.1016/j.meegid.2022.105286. Epub 
+      2022 Apr 22.
+
+PMID- 30402465
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190212
+LR  - 20190215
+IS  - 2314-6141 (Electronic)
+IS  - 2314-6133 (Print)
+VI  - 2018
+DP  - 2018
+TI  - Status of Artemisinin Resistance in Malaria Parasite Plasmodium falciparum from 
+      Molecular Analyses of the Kelch13 Gene in Southwestern Nigeria.
+PG  - 2305062
+LID - 10.1155/2018/2305062 [doi]
+LID - 2305062
+AB  - Evolution and spread of malaria parasite Plasmodium falciparum capable of evading 
+      antimalarials are the prime concern to malaria control. The currently effective 
+      drug, artemisinin (ART), is under threat due to detection of ART-resistant P. 
+      falciparum parasites in the Southeast Asian countries. It has been shown that 
+      amino acid (AA) mutations at the P. falciparum Kelch13 (Pfk13) gene provide 
+      resistance to ART. Nigeria, a part of the Sub-Saharan Africa, is highly endemic 
+      to malaria, contributing quite significantly to malaria, and resistance to 
+      chloroquine (CQ) and sulfadoxine-pyrimethamine (SP) combination drugs has already 
+      been reported. Since artemisinin combined therapy (ACT) is the first-line drug 
+      for treatment of uncomplicated malaria in Nigeria and five amino acid mutations 
+      have been validated in the Pfk13 gene alongside with candidate mutations for ART 
+      resistance, we performed molecular surveillance for mutations (following PCR and 
+      DNA sequence analyses) in this gene from two southwestern states of Nigeria. 
+      Statistical analyses of DNA sequences were also performed following different 
+      evolutionary models. None of the different validated and candidate AA mutations 
+      of Pfk13 gene conferring resistance to ART could be detected in P. falciparum 
+      sampled in the two southwestern states of Nigeria. In addition, DNA sequencing 
+      and sequence analyses indicated neither evolutionary selection pressure on the 
+      Pfk13 gene nor association of mutations in Pfk13 gene with mutations of other 
+      three genes conferring resistance to CQ and SP. Therefore, based on the 
+      monomorphism at the Pfk13 gene and nonassociation of mutations of this gene with 
+      mutations in three other drug-resistant genes in malaria parasite P. falciparum, 
+      it can be proposed that malaria public health is not under immediate threat in 
+      southwestern Nigeria concerning ART resistance.
+FAU - Oboh, Mary Aigbiremo
+AU  - Oboh MA
+AUID- ORCID: 0000-0002-2006-9027
+AD  - Parasitology and Mycology Laboratory, Université Cheikh Anta Diop, Dakar, 
+      Senegal.
+FAU - Ndiaye, Daouda
+AU  - Ndiaye D
+AD  - Parasitology and Mycology Laboratory, Université Cheikh Anta Diop, Dakar, 
+      Senegal.
+FAU - Antony, Hiasindh Ashmi
+AU  - Antony HA
+AD  - Division of Vector Borne Diseases, ICMR-National Institute of Research in Tribal 
+      Health, Jabalpur, India.
+FAU - Badiane, Aida Sadikh
+AU  - Badiane AS
+AD  - Parasitology and Mycology Laboratory, Université Cheikh Anta Diop, Dakar, 
+      Senegal.
+FAU - Singh, Upasana Shyamsunder
+AU  - Singh US
+AD  - Division of Vector Borne Diseases, ICMR-National Institute of Research in Tribal 
+      Health, Jabalpur, India.
+FAU - Ali, Nazia Anwar
+AU  - Ali NA
+AD  - Division of Vector Borne Diseases, ICMR-National Institute of Research in Tribal 
+      Health, Jabalpur, India.
+FAU - Bharti, Praveen Kumar
+AU  - Bharti PK
+AD  - Division of Vector Borne Diseases, ICMR-National Institute of Research in Tribal 
+      Health, Jabalpur, India.
+FAU - Das, Aparup
+AU  - Das A
+AUID- ORCID: 0000-0002-4081-5816
+AD  - Division of Vector Borne Diseases, ICMR-National Institute of Research in Tribal 
+      Health, Jabalpur, India.
+LA  - eng
+PT  - Journal Article
+DEP - 20181003
+PL  - United States
+TA  - Biomed Res Int
+JT  - BioMed research international
+JID - 101600173
+RN  - 0 (Artemisinins)
+RN  - 0 (Lactones)
+RN  - 0 (Protozoan Proteins)
+RN  - Y1R67R7XWU (artemisin)
+SB  - IM
+MH  - Artemisinins/*administration & dosage
+MH  - Drug Resistance/*genetics
+MH  - Evolution, Molecular
+MH  - Female
+MH  - Humans
+MH  - Lactones/*administration & dosage
+MH  - *Malaria, Falciparum/drug therapy/genetics
+MH  - Male
+MH  - Models, Genetic
+MH  - *Mutation
+MH  - Nigeria
+MH  - Plasmodium falciparum/*genetics
+MH  - Protozoan Proteins/*genetics
+PMC - PMC6192135
+EDAT- 2018/11/08 06:00
+MHDA- 2019/02/13 06:00
+PMCR- 2018/10/03
+CRDT- 2018/11/08 06:00
+PHST- 2018/05/24 00:00 [received]
+PHST- 2018/08/20 00:00 [revised]
+PHST- 2018/09/17 00:00 [accepted]
+PHST- 2018/11/08 06:00 [entrez]
+PHST- 2018/11/08 06:00 [pubmed]
+PHST- 2019/02/13 06:00 [medline]
+PHST- 2018/10/03 00:00 [pmc-release]
+AID - 10.1155/2018/2305062 [doi]
+PST - epublish
+SO  - Biomed Res Int. 2018 Oct 3;2018:2305062. doi: 10.1155/2018/2305062. eCollection 
+      2018.
+
+PMID- 33109270
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20201105
+LR  - 20210915
+IS  - 1756-0500 (Electronic)
+IS  - 1756-0500 (Linking)
+VI  - 13
+IP  - 1
+DP  - 2020 Oct 27
+TI  - Molecular detection of drug resistant polymorphisms in Plasmodium falciparum 
+      isolates from Southwest, Nigeria.
+PG  - 497
+LID - 10.1186/s13104-020-05334-5 [doi]
+LID - 497
+AB  - OBJECTIVE: Nigeria bears 25% of global malaria burden despite concerted efforts 
+      towards its control and elimination. The emergence of drug resistance to first 
+      line drugs, artemisinin combination therapies (ACTs), indicates an urgent need 
+      for continuous molecular surveillance of drug resistance especially in high 
+      burden countries where drug interventions are heavily relied on. This study 
+      describes mutations in Plasmodium falciparum genes associated with drug 
+      resistance in malaria; Pfk13, Pfmdr1, PfATPase6 and Pfcrt in isolates obtained 
+      from 83 symptomatic malaria patients collected in August 2014, aged 1-61 years 
+      old from South-west Nigeria. RESULTS: Two Pfmdr1, N86 and Y184 variants were 
+      present at a prevalence of 56% and 13.25% of isolates respectively. There was one 
+      synonymous (S679S) and two non-synonymous (M699V, S769M) mutations in the 
+      PATPase6 gene, while Pfcrt genotype (CVIET), had a prevalence of 45%. The Pfk13 
+      C580Y mutant allele was suspected by allelic discrimination in two samples with 
+      mixed genotypes although this could not be validated with independent isolation 
+      or additional methods. Our findings call for robust molecular surveillance of 
+      antimalarial drug resistance markers in west Africa especially with increased use 
+      of antimalarial drugs as prophylaxis for Covid-19.
+FAU - Tola, Monday
+AU  - Tola M
+AD  - Public Health Division, Nigerian Institute of Medical Research, Lagos, Nigeria.
+AD  - Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria.
+FAU - Ajibola, Olumide
+AU  - Ajibola O
+AUID- ORCID: 0000-0001-6860-3607
+AD  - First Technical University, Ibadan, Oyo State, Nigeria.
+AD  - Medical Research Council Unit The Gambia At London, School of Hygiene and 
+      Tropical Medicine, Banjul, The Gambia.
+FAU - Idowu, Emmanuel Taiwo
+AU  - Idowu ET
+AD  - Department of Zoology, University of Lagos, Lagos, Nigeria.
+FAU - Omidiji, Olusesan
+AU  - Omidiji O
+AD  - Department of Cell Biology and Genetics, University of Lagos, Lagos, Nigeria.
+FAU - Awolola, Samson Taiwo
+AU  - Awolola ST
+AD  - Public Health Division, Nigerian Institute of Medical Research, Lagos, Nigeria.
+FAU - Amambua-Ngwa, Alfred
+AU  - Amambua-Ngwa A
+AD  - Medical Research Council Unit The Gambia At London, School of Hygiene and 
+      Tropical Medicine, Banjul, The Gambia. angwa@mrc.gm.
+LA  - eng
+GR  - MR/K02440X/1/MRC_/Medical Research Council/United Kingdom
+PT  - Journal Article
+DEP - 20201027
+PL  - England
+TA  - BMC Res Notes
+JT  - BMC research notes
+JID - 101462768
+RN  - 0 (ATP6 protein, Plasmodium falciparum)
+RN  - 0 (Antimalarials)
+RN  - 0 (Artemether, Lumefantrine Drug Combination)
+RN  - 0 (Artemisinins)
+RN  - 0 (Mdr1 protein, Plasmodium falciparum)
+RN  - 0 (Membrane Transport Proteins)
+RN  - 0 (Multidrug Resistance-Associated Proteins)
+RN  - 0 (PfCRT protein, Plasmodium falciparum)
+RN  - 0 (Protozoan Proteins)
+RN  - 9RMU91N5K2 (artemisinin)
+RN  - EC 7.2.2.10 (Calcium-Transporting ATPases)
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Antimalarials/therapeutic use
+MH  - Artemether, Lumefantrine Drug Combination/*therapeutic use
+MH  - Artemisinins/therapeutic use
+MH  - COVID-19
+MH  - Calcium-Transporting ATPases/*genetics
+MH  - Child
+MH  - Child, Preschool
+MH  - Coronavirus Infections/epidemiology/prevention & control
+MH  - Drug Resistance/genetics
+MH  - Female
+MH  - Gene Expression
+MH  - Genotype
+MH  - Humans
+MH  - Infant
+MH  - Malaria, Falciparum/*drug therapy/epidemiology/parasitology
+MH  - Membrane Transport Proteins/*genetics
+MH  - Middle Aged
+MH  - Molecular Epidemiology
+MH  - Multidrug Resistance-Associated Proteins/*genetics
+MH  - *Mutation
+MH  - Nigeria/epidemiology
+MH  - Pandemics/prevention & control
+MH  - Plasmodium falciparum/*drug effects/genetics/growth & development
+MH  - Pneumonia, Viral/epidemiology/prevention & control
+MH  - Protozoan Proteins/*genetics
+PMC - PMC7588951
+OTO - NOTNLM
+OT  - Artemisinin
+OT  - Drug resistance
+OT  - K13
+OT  - Malaria
+OT  - Nigeria
+COIS- The authors declare that they have no competing interests.
+EDAT- 2020/10/29 06:00
+MHDA- 2020/11/06 06:00
+PMCR- 2020/10/27
+CRDT- 2020/10/28 05:29
+PHST- 2020/06/15 00:00 [received]
+PHST- 2020/10/14 00:00 [accepted]
+PHST- 2020/10/28 05:29 [entrez]
+PHST- 2020/10/29 06:00 [pubmed]
+PHST- 2020/11/06 06:00 [medline]
+PHST- 2020/10/27 00:00 [pmc-release]
+AID - 10.1186/s13104-020-05334-5 [pii]
+AID - 5334 [pii]
+AID - 10.1186/s13104-020-05334-5 [doi]
+PST - epublish
+SO  - BMC Res Notes. 2020 Oct 27;13(1):497. doi: 10.1186/s13104-020-05334-5.
+
+PMID- 31296112
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200226
+LR  - 20200601
+IS  - 2047-7732 (Electronic)
+IS  - 2047-7724 (Print)
+IS  - 2047-7724 (Linking)
+VI  - 113
+IP  - 4
+DP  - 2019 Jun
+TI  - Molecular surveillance of putative drug resistance markers of antifolate and 
+      artemisinin among imported Plasmodium falciparum in Qatar.
+PG  - 158-166
+LID - 10.1080/20477724.2019.1639018 [doi]
+AB  - Malaria remains a significant public health challenge and is of global 
+      importance. Imported malaria is a growing problem in non-endemic areas throughout 
+      the world and also in Qatar due to a massive influx of migrants from endemic 
+      countries. Antimalarial drug resistance is an important deterrent in our fight 
+      against malaria today. Molecular markers mirror intrinsic antimalarial drug 
+      resistance and their changes precede clinical resistance. Thus, in the present 
+      study, molecular markers of sulphadoxine-pyrimethamine (Pfdhfr and Pfdhps) and 
+      artemisinin (PfATPase6 and Pfk13) were sequenced to determine the drug resistance 
+      genotypes among 118 imported P. falciparum isolates in Qatar, between 2013 and 
+      2016. All the isolates had mutant Pfdhfr alleles, with either double mutant 
+      (51I/108N) (59.3%) or triple mutant (51I, 59R and 108N) (30.6%) genotypes. I164L 
+      substitution was not found in this study. In case of Pfdhps, majority of the 
+      samples were carriers of either single (S436A/ A437G/ K540E) mutant (47.2%) or 
+      double (S436A/K540E, A437G/K540E, K540E/A581G) mutant (39.8%). A single novel 
+      point mutation (431V) was observed in the samples originated from Nigeria and 
+      Ghana. Polymorphisms in PfATPase6 were absent and only one non-synonymous 
+      mutation in Pfk13 was found at codon G453A from a sample of Kenyan origin. High 
+      levels of sulphadoxine-pyrimethamine resistance in the present study provide 
+      potential information about the spread of antimalarial drug resistance and will 
+      be beneficial for the treatment of imported malaria cases in Qatar.
+FAU - Bansal, Devendra
+AU  - Bansal D
+AUID- ORCID: 0000-0002-1387-4335
+AD  - Department of Microbiology and Immunology, Weill Cornell Medicine - Qatar, 
+      Cornell University, Qatar Foundation - Education City , Doha , Qatar.
+FAU - Bharti, Praveen K
+AU  - Bharti PK
+AD  - National Institute for Research in Tribal Health, Indian Council of Medical 
+      Research , Jabalpur , India.
+FAU - Acharya, Anushree
+AU  - Acharya A
+AD  - Department of Microbiology and Immunology, Weill Cornell Medicine - Qatar, 
+      Cornell University, Qatar Foundation - Education City , Doha , Qatar.
+FAU - Abdelraheem, Mohamed H
+AU  - Abdelraheem MH
+AD  - Department of Microbiology & Immunology, Faculty of Medicine and Health Sciences, 
+      Sultan Qaboos University , Muscat , Oman.
+FAU - Patel, Priyanka
+AU  - Patel P
+AD  - National Institute for Research in Tribal Health, Indian Council of Medical 
+      Research , Jabalpur , India.
+FAU - Elmalik, Ashraf
+AU  - Elmalik A
+AD  - Department of Emergency Medicine, Hamad General Hospital, Hamad Medical 
+      Corporation , Doha , Qatar.
+FAU - Abosalah, Salem
+AU  - Abosalah S
+AD  - Department of Emergency Medicine, Hamad General Hospital, Hamad Medical 
+      Corporation , Doha , Qatar.
+FAU - Khan, Fahmi Y
+AU  - Khan FY
+AD  - Department of Medicine, Hamad General Hospital, Hamad Medical Corporation , Doha 
+      , Qatar.
+FAU - ElKhalifa, Mohamed
+AU  - ElKhalifa M
+AD  - Department of Laboratory Medicine and Pathology, Hamad General Hospital, Hamad 
+      Medical Corporation , Doha , Qatar.
+FAU - Kaur, Hargobinder
+AU  - Kaur H
+AD  - Department of Parasitology, Postgraduate Institute of Medical Education and 
+      Research , Chandigarh , India.
+FAU - Farag, Elmoubasher
+AU  - Farag E
+AD  - Ministry of Public Health , Doha , Qatar.
+FAU - Sarmah, Nilanju P
+AU  - Sarmah NP
+AD  - Regional Medical Research Centre, NE, Indian Council of Medical Research , 
+      Dibrugarh , India.
+FAU - Mohapatra, Pradyumna K
+AU  - Mohapatra PK
+AD  - Regional Medical Research Centre, NE, Indian Council of Medical Research , 
+      Dibrugarh , India.
+FAU - Sehgal, Rakesh
+AU  - Sehgal R
+AD  - Department of Parasitology, Postgraduate Institute of Medical Education and 
+      Research , Chandigarh , India.
+FAU - Mahanta, Jagadish
+AU  - Mahanta J
+AD  - Regional Medical Research Centre, NE, Indian Council of Medical Research , 
+      Dibrugarh , India.
+FAU - Sultan, Ali A
+AU  - Sultan AA
+AD  - Department of Microbiology and Immunology, Weill Cornell Medicine - Qatar, 
+      Cornell University, Qatar Foundation - Education City , Doha , Qatar.
+LA  - eng
+PT  - Journal Article
+DEP - 20190712
+PL  - England
+TA  - Pathog Glob Health
+JT  - Pathogens and global health
+JID - 101583421
+RN  - 0 (Antiprotozoal Agents)
+RN  - 0 (Artemisinins)
+RN  - 0 (Drug Combinations)
+RN  - 0 (Lactones)
+RN  - 37338-39-9 (fanasil, pyrimethamine drug combination)
+RN  - 88463U4SM5 (Sulfadoxine)
+RN  - Y1R67R7XWU (artemisin)
+RN  - Z3614QOX8W (Pyrimethamine)
+SB  - IM
+MH  - Adult
+MH  - Antiprotozoal Agents/*pharmacology
+MH  - Artemisinins/*pharmacology
+MH  - Communicable Diseases, Imported/epidemiology/*parasitology
+MH  - Drug Combinations
+MH  - *Drug Resistance
+MH  - Epidemiological Monitoring
+MH  - Female
+MH  - Genes, Protozoan
+MH  - Genotype
+MH  - Humans
+MH  - Lactones/*pharmacology
+MH  - Malaria, Falciparum/epidemiology/*parasitology
+MH  - Male
+MH  - Molecular Epidemiology
+MH  - Plasmodium falciparum/drug effects/*genetics/isolation & purification
+MH  - Pyrimethamine/*pharmacology
+MH  - Qatar/epidemiology
+MH  - Sequence Analysis, DNA
+MH  - Sulfadoxine/*pharmacology
+PMC - PMC6758627
+OTO - NOTNLM
+OT  - Imported malaria
+OT  - Qatar
+OT  - artemisinin combination therapy
+OT  - molecular drug resistance
+OT  - sulphadoxine-pyrimethamine
+EDAT- 2019/07/13 06:00
+MHDA- 2020/02/27 06:00
+PMCR- 2020/06/01
+CRDT- 2019/07/13 06:00
+PHST- 2019/07/13 06:00 [pubmed]
+PHST- 2020/02/27 06:00 [medline]
+PHST- 2019/07/13 06:00 [entrez]
+PHST- 2020/06/01 00:00 [pmc-release]
+AID - 1639018 [pii]
+AID - 10.1080/20477724.2019.1639018 [doi]
+PST - ppublish
+SO  - Pathog Glob Health. 2019 Jun;113(4):158-166. doi: 10.1080/20477724.2019.1639018. 
+      Epub 2019 Jul 12.

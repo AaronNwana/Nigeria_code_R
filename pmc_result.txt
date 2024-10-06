@@ -1,0 +1,451 @@
+1:  Molecular profiling of the artemisinin resistance Kelch 13 gene in Plasmodium falciparum from Nigeria
+Fehintola V. Ajogbasile, Paul E. Oluniyi, Adeyemi T. Kayode, Kazeem O. Akano, Benjamin B. Adegboyega, Courage Philip, Nnenna Ogbulafor, Henrietta U. Okafor, Stephen Oguche, Robinson D. Wammanda, Olugbenga A. Mokuolu, Onikepe A. Folarin, Christian T. Happi
+PLoS One. 2022; 17(2): e0264548.  Published online 2022 Feb 28. doi: 10.1371/journal.pone.0264548
+PMCID: PMC8884509
+
+2:  Molecular surveillance of artemisinin resistance-related Pfk13 and pfcrt polymorphisms in imported Plasmodium falciparum isolates reported in eastern China from 2015 to 2019
+Xiangli Kong, Jun Feng, Yan Xu, Ge Yan, Shuisen Zhou
+Malar J. 2022; 21: 369.  Published online 2022 Dec 4. doi: 10.1186/s12936-022-04398-x
+PMCID: PMC9719650
+
+3:  Evolution of Plasmodium falciparum antimalarial drug resistance markers post-adoption of artemisinin-based combination therapies in Yaounde, Cameroon
+Peter Thelma Ngwa Niba, Akindeh Mbuh Nji, Jean Paul Kengne Chedjou, Helle Hansson, Emma Filtenborg Hocke, Innocent Mbulli Ali, Olivia Achonduh-Atijegbe, Marie-Solange B. Evehe, Marie Helene Munck Jørgensen, Calvino Tah Fomboh, Liwang Cui, Gillian Stresman, Jude D. Bigoga, Michael Alifrangis, Wilfred F. Mbacham
+Int J Infect Dis. 2023 Jul; 132: 108–117.  doi: 10.1016/j.ijid.2023.03.050
+PMCID: PMC10182900
+
+4:  Genetic association between the Pfk13 gene mutation and artemisinin resistance phenotype in Plasmodium falciparum isolates from Yunnan Province, China
+Ying Dong, Jian Wang, Aiming Sun, Yan Deng, Mengni Chen, Yanchun Xu, Jingpo Xue
+Malar J. 2018; 17: 478.  Published online 2018 Dec 18. doi: 10.1186/s12936-018-2619-4
+PMCID: PMC6299582
+
+5:  Anti-malarial resistance in Mozambique: Absence of Plasmodium falciparum Kelch 13 (K13) propeller domain polymorphisms associated with resistance to artemisinins
+Clemente da Silva, Daniela Matias, Brigite Dias, Beatriz Cancio, Miguel Silva, Ruben Viegas, Nordino Chivale, Sonia Luis, Crizolgo Salvador, Denise Duarte, Paulo Arnaldo, Sonia Enosse, Fatima Nogueira
+Malar J. 2023; 22: 160.  Published online 2023 May 19. doi: 10.1186/s12936-023-04589-0
+PMCID: PMC10199631
+
+6:  Assessment of artemisinin tolerance in Plasmodium falciparum clinical isolates in children with uncomplicated malaria in Ghana
+Samuel Yao Ahorhorlu, Neils Ben Quashie, Rasmus Weisel Jensen, William Kudzi, Edmund Tetteh Nartey, Nancy Odurowah Duah-Quashie, Felix Zoiku, Bartholomew Dzudzor, Christian William Wang, Helle Hansson, Michael Alifrangis, George Obeng Adjei
+Malar J. 2023; 22: 58.  Published online 2023 Feb 19. doi: 10.1186/s12936-023-04482-w
+PMCID: PMC9938975
+
+7:  Prevalence of potential mediators of artemisinin resistance in African isolates of Plasmodium falciparum
+Afolabi Owoloye, Michael Olufemi, Emmanuel T. Idowu, Kolapo M. Oyebola
+Malar J. 2021; 20: 451.  Published online 2021 Dec 2. doi: 10.1186/s12936-021-03987-6
+PMCID: PMC8638531
+
+8:  Artemisinin-based combination therapy (ACT) and drug resistance molecular markers: A systematic review of clinical studies from two malaria endemic regions – India and sub-Saharan Africa
+Aditi Arya, Loick P. Kojom Foko, Shewta Chaudhry, Amit Sharma, Vineeta Singh
+Int J Parasitol Drugs Drug Resist. 2021 Apr; 15: 43–56.  Published online 2020 Dec 13. doi: 10.1016/j.ijpddr.2020.11.006
+PMCID: PMC7887327
+
+9:  Absence of kelch13 artemisinin resistance markers but strong selection for lumefantrine-tolerance molecular markers following 18 years of artemisinin-based combination therapy use in Mpumalanga Province, South Africa (2001–2018)
+Jaishree Raman, Frank M. Kagoro, Aaron Mabuza, Gillian Malatje, Anthony Reid, John Frean, Karen I. Barnes
+Malar J. 2019; 18: 280.  Published online 2019 Aug 22. doi: 10.1186/s12936-019-2911-y
+PMCID: PMC6704579
+
+10:  K13-Mediated Reduced Susceptibility to Artemisinin in Plasmodium falciparum Is Overlaid on a Trait of Enhanced DNA Damage Repair
+Aoli Xiong, Prem Prakash, Xiaohong Gao, Marvin Chew, Ian Jun Jie Tay, Charles J. Woodrow, Bevin P. Engelward, Jongyoon Han, Peter R. Preiser
+Cell Rep. 2020 Aug 4; 32(5): 107996.  Published online 2020 Aug 4. doi: 10.1016/j.celrep.2020.107996
+PMCID: PMC7408483
+
+11:  In vitro growth competition experiments that suggest consequences of the substandard artemisinin epidemic that may be accelerating drug resistance in P. falciparum malaria
+Matthew R. Hassett, Paul D. Roepe
+PLoS One. 2021; 16(3): e0248057.  Published online 2021 Mar 9. doi: 10.1371/journal.pone.0248057
+PMCID: PMC7942984
+
+12:  Drug resistance markers within an evolving efficacy of anti-malarial drugs in Cameroon: a systematic review and meta-analysis (1998–2020)
+Peter Thelma Ngwa Niba, Akindeh M. Nji, Marie-Solange Evehe, Innocent M. Ali, Palmer Masumbe Netongo, Randolph Ngwafor, Marcel N. Moyeh, Lesley Ngum Ngum, Oliva Ebie Ndum, Fon Abongwa Acho, Cyrille Mbanwi Mbu’u, Dorothy A. Fosah, Barbara Atogho-Tiedeu, Olivia Achonduh-Atijegbe, Rosine Djokam-Dadjeu, Jean Paul Kengne Chedjou, Jude D. Bigoga, Carole Else Eboumbou Moukoko, Anthony Ajua, Eric Achidi, Esther Tallah, Rose G. F. Leke, Alexis Tourgordi, Pascal Ringwald, Michael Alifrangis, Wilfred F. Mbacham
+Malar J. 2021; 20: 32.  Published online 2021 Jan 9. doi: 10.1186/s12936-020-03543-8
+PMCID: PMC7796563
+
+13:  Polymorphism analysis of pfmdr1 gene in Plasmodium falciparum isolates 11 years post-adoption of artemisinin-based combination therapy in Saudi Arabia
+Hesham M. Al-Mekhlafi, Aymen M. Madkhali, Ahmed A. Abdulhaq, Wahib M. Atroosh, Ahmad Hassn Ghzwani, Khalid Ammash Zain, Khalid Y. Ghailan, Hassan A. Hamali, Abdullah A. Mobarki, Talal H. Alharazi, Zaki M. Eisa, Yee-Ling Lau
+Sci Rep. 2022; 12: 517.  Published online 2022 Jan 11. doi: 10.1038/s41598-021-04450-x
+PMCID: PMC8752599
+
+14:  Molecular surveillance of putative drug resistance markers of antifolate and artemisinin among imported Plasmodium falciparum in Qatar
+Devendra Bansal, Praveen K. Bharti, Anushree Acharya, Mohamed H Abdelraheem, Priyanka Patel, Ashraf Elmalik, Salem Abosalah, Fahmi Y. Khan, Mohamed ElKhalifa, Hargobinder Kaur, Elmoubasher Farag, Nilanju P Sarmah, Pradyumna K. Mohapatra, Rakesh Sehgal, Jagadish Mahanta, Ali A. Sultan
+Pathog Glob Health. 2019 Jun; 113(4): 158–166.  Published online 2019 Jul 12. doi: 10.1080/20477724.2019.1639018
+PMCID: PMC6758627
+
+15:  Drug resistance of Plasmodium falciparum and Plasmodium vivax isolates in Indonesia
+Farindira Vesti Rahmasari, Puji B. S. Asih, Farahana K. Dewayanti, Chawarat Rotejanaprasert, Prakaykaew Charunwatthana, Mallika Imwong, Din Syafruddin
+Malar J. 2022; 21: 354.  Published online 2022 Nov 28. doi: 10.1186/s12936-022-04385-2
+PMCID: PMC9703442
+
+16:  Artemisinin resistance-associated markers in Plasmodium falciparum parasites from the China-Myanmar border: predicted structural stability of K13 propeller variants detected in a low-prevalence area
+Yan He, Susana Campino, Ernest Diez Benavente, David C. Warhurst, Khalid B. Beshir, Inke Lubis, Ana Rita Gomes, Jun Feng, Wang Jiazhi, Xiaodong Sun, Fang Huang, Lin-hua Tang, Colin J. Sutherland, Taane G. Clark
+PLoS One. 2019; 14(3): e0213686.  Published online 2019 Mar 18. doi: 10.1371/journal.pone.0213686
+PMCID: PMC6422288
+
+17:  A review of the frequencies of Plasmodium falciparum Kelch 13 artemisinin resistance mutations in Africa
+Leonard Ndwiga, Kelvin M. Kimenyi, Kevin Wamae, Victor Osoti, Mercy Akinyi, Irene Omedo, Deus S. Ishengoma, Nancy Duah-Quashie, Ben Andagalu, Anita Ghansah, Alfred Amambua-Ngwa, Stephen Tukwasibwe, Sofonias K. Tessema, Corine Karema, Abdoulaye A. Djimde, Arjen M. Dondorp, Jaishree Raman, Robert W. Snow, Philip Bejon, Lynette Isabella Ochola-Oyier
+Int J Parasitol Drugs Drug Resist. 2021 Aug; 16: 155–161.  Published online 2021 Jun 10. doi: 10.1016/j.ijpddr.2021.06.001
+PMCID: PMC8219943
+
+18:  Assessment of genetic polymorphisms associated with malaria antifolate resistance among the population of Libreville, Gabon
+Sylvatrie-Danne Dinzouna-Boutamba, Berthe Amélie Iroungou, Falone Larissa Akombi, Lauriane Yacka-Mouele, Zin Moon, Ja Moon Aung, Sanghyun Lee, Dong-Il Chung, Yeonchul Hong, Youn-Kyoung Goo
+Malar J. 2023; 22: 183.  Published online 2023 Jun 14. doi: 10.1186/s12936-023-04615-1
+PMCID: PMC10265907
+
+19:  Mapping partner drug resistance to guide antimalarial combination therapy policies in sub-Saharan Africa
+Hanna Y. Ehrlich, Amy K. Bei, Daniel M. Weinberger, Joshua L. Warren, Sunil Parikh
+Proc Natl Acad Sci U S A. 2021 Jul 20; 118(29): e2100685118.  Published online 2021 Jul 14. doi: 10.1073/pnas.2100685118
+PMCID: PMC8307356
+
+20:  Molecular surveillance of pfcrt, pfmdr1 and pfk13-propeller mutations in Plasmodium falciparum isolates imported from Africa to China
+Fang Huang, He Yan, Jing-Bo Xue, Yan-Wen Cui, Shui-Sen Zhou, Zhi-Gui Xia, Rabindra Abeyasinghe, Pascal Ringwald, Xiao-Nong Zhou
+Malar J. 2021; 20: 73.  Published online 2021 Feb 6. doi: 10.1186/s12936-021-03613-5
+PMCID: PMC7866736
+
+21:  Targeted deep amplicon sequencing of kelch 13 and cytochrome b in Plasmodium falciparum isolates from an endemic African country using the Malaria Resistance Surveillance (MaRS) protocol
+Mariangela L’Episcopia, Julia Kelley, Dhruviben Patel, Sarah Schmedes, Shashidahar Ravishankar, Michela Menegon, Edvige Perrotti, Abduselam M. Nurahmed, Albadawi A. Talha, Bakri Y. Nour, Naomi Lucchi, Carlo Severini, Eldin Talundzic
+Parasit Vectors. 2020; 13: 137.  Published online 2020 Mar 14. doi: 10.1186/s13071-020-4005-7
+PMCID: PMC7071742
+
+22:  Malaria Surveillance — United States, 2017
+Kimberly E. Mace, Naomi W. Lucchi, Kathrine R. Tan
+MMWR Surveill Summ. 2021 Mar 19; 70(2): 1–35.  Published online 2021 Mar 19. doi: 10.15585/mmwr.ss7002a1
+PMCID: PMC8017932
+
+23:  Molecular surveillance of anti-malarial drug resistance genes in Plasmodium falciparum isolates in Odisha, India
+Ramakanta Rana, Nikhat Khan, Sonali Sandeepta, Sanghamitra Pati, Aparup Das, Madhusmita Bal, Manoranjan Ranjit
+Malar J. 2022; 21: 394.  Published online 2022 Dec 24. doi: 10.1186/s12936-022-04403-3
+PMCID: PMC9790123
+
+24:  Molecular surveillance of anti-malarial resistance pfcrt, pfmdr1, and pfk13 polymorphisms in African Plasmodium falciparum imported parasites to Wuhan, China
+Weijia Cheng, Xiaonan Song, Huabing Tan, Kai Wu, Jian Li
+Malar J. 2021; 20: 209.  Published online 2021 May 1. doi: 10.1186/s12936-021-03737-8
+PMCID: PMC8087876
+
+25:  Absence of Association between Methylene Blue Reduced Susceptibility and Polymorphisms in 12 Genes Involved in Antimalarial Drug Resistance in African Plasmodium falciparum
+Mathieu Gendrot, Océane Delandre, Marie Gladys Robert, Francis Tsombeng Foguim, Nicolas Benoit, Rémy Amalvict, Isabelle Fonta, Joel Mosnier, Marylin Madamet, Bruno Pradines, on behalf of the French National Reference Centre for Imported Malaria Study Group
+Pharmaceuticals (Basel) 2021 Apr; 14(4): 351.  Published online 2021 Apr 9. doi: 10.3390/ph14040351
+PMCID: PMC8069138
+
+26:  Influx of diverse, drug resistant and transmissible Plasmodium falciparum into a malaria-free setting in Qatar
+Abir Al-Rumhi, Zainab Al-Hashami, Salama Al-Hamidhi, Amal Gadalla, Raeece Naeem, Lisa Ranford-Cartwright, Arnab Pain, Ali A. Sultan, Hamza A. Babiker
+BMC Infect Dis. 2020; 20: 413.  Published online 2020 Jun 15. doi: 10.1186/s12879-020-05111-6
+PMCID: PMC7296620
+
+27:  High throughput resistance profiling of Plasmodium falciparum infections based on custom dual indexing and Illumina next generation sequencing-technology
+Sidsel Nag, Marlene D. Dalgaard, Poul-Erik Kofoed, Johan Ursing, Marina Crespo, Lee O’Brien Andersen, Frank Møller Aarestrup, Ole Lund, Michael Alifrangis
+Sci Rep. 2017; 7: 2398.  Published online 2017 May 25. doi: 10.1038/s41598-017-02724-x
+PMCID: PMC5445084
+
+28:  Putative molecular markers of Plasmodium falciparum resistance to antimalarial drugs in malaria parasites from Ghana
+Sena Adzoa Matrevi, Tryphena Adams, Kwesi Zandoh Tandoh, Philip Opoku-Agyeman, Selassie Bruku, Nana Aba Ennuson, Paa Kwesi Apau-Danso, Emmanuel Fiagbedzi, Mary Avornyo, Charles James Myers, Joy Futagbi, Oheneba Charles Hagan, Benjamin Abuaku, Kwadwo Ansah Koram, Gordon Awandare, Neils Ben Quashie, Nancy Odurowah Duah-Quashie
+Front Epidemiol. 2024; 4: 1279835.  Published online 2024 Feb 15. doi: 10.3389/fepid.2024.1279835
+PMCID: PMC10910922
+
+29:  Malaria in Venezuela: changes in the complexity of infection reflects the increment in transmission intensity
+M. Andreína Pacheco, David A. Forero-Peña, Kristan A. Schneider, Melynar Chavero, Angel Gamardo, Luisamy Figuera, Esha R. Kadakia, María E. Grillet, Joseli Oliveira-Ferreira, Ananias A. Escalante
+Malar J. 2020; 19: 176.  Published online 2020 May 7. doi: 10.1186/s12936-020-03247-z
+PMCID: PMC7206825
+
+30:  Antimalarial drug resistance in the Central and Adamawa regions of Cameroon: Prevalence of mutations in P. falciparum crt, Pfmdr1, Pfdhfr and Pfdhps genes
+Aline Gaelle Bouopda Tuedom, Elangwe Milo Sarah-Matio, Carole Else Eboumbou Moukoko, Brice Lionel Feufack-Donfack, Christelle Ngou Maffo, Albert Ngano Bayibeki, Hermann Parfait Awono-Ambene, Lawrence Ayong, Antoine Berry, Luc Abate, Isabelle Morlais, Sandrine Eveline Nsango
+PLoS One. 2021; 16(8): e0256343.  Published online 2021 Aug 19. doi: 10.1371/journal.pone.0256343
+PMCID: PMC8376100
+
+31:  Drug resistance profile and clonality of Plasmodium falciparum parasites in Cape Verde: the 2017 malaria outbreak
+Silvania Da Veiga Leal, Daniel Ward, Susana Campino, Ernest Diez Benavente, Amy Ibrahim, Tânia Claret, Varela Isaías, Davidson Monteiro, Taane G. Clark, Luzia Gonçalves, Tomas Valdez, Maria da Luz Lima Mendonça, Henrique Silveira, Fatima Nogueira
+Malar J. 2021; 20: 172.  Published online 2021 Mar 31. doi: 10.1186/s12936-021-03708-z
+PMCID: PMC8011132
+
+32:  Impact of parasite genomic dynamics on the sensitivity of Plasmodium falciparum isolates to piperaquine and other antimalarial drugs
+Dancan M. Wakoli, Bartholomew N. Ondigo, Douglas O. Ochora, Joseph G. Amwoma, Winnie Okore, Edwin W. Mwakio, Gladys Chemwor, Jackeline Juma, Raphael Okoth, Charles Okudo, Redemptah Yeda, Benjamin H. Opot, Agnes C. Cheruiyot, Dennis Juma, Amanda Roth, Benhards R. Ogutu, Daniel Boudreaux, Ben Andagalu, Hoseah M. Akala
+BMC Med. 2022; 20: 448.  Published online 2022 Nov 18. doi: 10.1186/s12916-022-02652-2
+PMCID: PMC9673313
+
+33:  Different In Vitro Drug Susceptibility Profile of Plasmodium falciparum Isolates from Two Adjacent Areas of Northeast Myanmar and Molecular Markers for Drug Resistance
+Mengxi Duan, Yao Bai, Shuang Deng, Yonghua Ruan, Weilin Zeng, Xiaosong Li, Xun Wang, Wei Zhao, Hui Zhao, Kemin Sun, Wenya Zhu, Yiman Wu, Jun Miao, Myat Phone Kyaw, Zhaoqing Yang, Liwang Cui
+Trop Med Infect Dis. 2022 Dec; 7(12): 442.  Published online 2022 Dec 17. doi: 10.3390/tropicalmed7120442
+PMCID: PMC9782301
+
+34:  Surveillance of Antimalarial Drug-Resistance Genes in Imported Plasmodium falciparum Isolates From Nigeria in Henan, China, 2012–2019
+Dongyang Zhao, Hongwei Zhang, Penghui Ji, Suhua Li, Chengyun Yang, Ying Liu, Dan Qian, Yan Deng, Hao Wang, Deling Lu, Ruimin Zhou, Yuling Zhao
+Front Cell Infect Microbiol. 2021; 11: 644576.  Published online 2021 Apr 23. doi: 10.3389/fcimb.2021.644576
+PMCID: PMC8102827
+
+35:  Genetic surveillance for monitoring the impact of drug use on Plasmodium falciparum populations
+Yaye Die Ndiaye, Daniel L. Hartl, David McGregor, Aida Badiane, Fatou Ba Fall, Rachel F. Daniels, Dyann F. Wirth, Daouda Ndiaye, Sarah K. Volkman
+Int J Parasitol Drugs Drug Resist. 2021 Dec; 17: 12–22.  Published online 2021 Jul 26. doi: 10.1016/j.ijpddr.2021.07.004
+PMCID: PMC8342550
+
+36:  A review of malaria molecular markers for drug resistance in Plasmodium falciparum and Plasmodium vivax in China
+Siqi Wang, Fang Huang, He Yan, Jianhai Yin, Zhigui Xia
+Front Cell Infect Microbiol. 2023; 13: 1167220.  Published online 2023 May 9. doi: 10.3389/fcimb.2023.1167220
+PMCID: PMC10203619
+
+37:  Increased Sensitivity of Plasmodium falciparum to Artesunate/Amodiaquine Despite 14 Years as First-Line Malaria Treatment, Zanzibar
+Mwinyi Msellem, Ulrika Morris, Aungpaing Soe, Faiza B. Abbas, Abdul-Wahid Ali, Rory Barnes, Paolo Frumento, Abdullah S. Ali, Andreas Mårtensson, Anders Björkman
+Emerg Infect Dis. 2020 Aug; 26(8): 1767–1777.  doi: 10.3201/eid2608.191547
+PMCID: PMC7392451
+
+38:  Molecular and epidemiological characterization of imported malaria cases in Chile
+Daniel F. Escobar, Naomi W. Lucchi, Rispah Abdallah, María Teresa Valenzuela, Venkatachalam Udhayakumar, María Isabel Jercic, Stella M. Chenet
+Malar J. 2020; 19: 289.  Published online 2020 Aug 13. doi: 10.1186/s12936-020-03353-y
+PMCID: PMC7427082
+
+39:  Prevalence of Plasmodium falciparum Kelch 13 (PfK13) and Ubiquitin-Specific Protease 1 (pfubp1) Gene Polymorphisms in Returning Travelers from Africa Reported in Eastern China
+He Yan, Xiangli Kong, Tao Zhang, Huihui Xiao, Xinyu Feng, Hong Tu, Jun Feng
+Antimicrob Agents Chemother. 2020 Nov; 64(11): e00981-20.  Prepublished online 2020 Aug 24. Published online 2020 Oct 20. doi: 10.1128/AAC.00981-20
+PMCID: PMC7577147
+
+40:  Malaria Surveillance — United States, 2018
+Kimberly E. Mace, Naomi W. Lucchi, Kathrine R. Tan
+MMWR Surveill Summ. 2022 Sep 2; 71(8): 1–35.  Published online 2022 Sep 2. doi: 10.15585/mmwr.ss7108a1
+PMCID: PMC9470224
+
+41:  Imported Malaria in Portugal: Prevalence of Polymorphisms in the Anti-Malarial Drug Resistance Genes pfmdr1 and pfk13
+Debora Serrano, Ana Santos-Reis, Clemente Silva, Ana Dias, Brigite Dias, Cristina Toscano, Cláudia Conceição, Teresa Baptista-Fernandes, Fatima Nogueira
+Microorganisms. 2021 Oct; 9(10): 2045.  Published online 2021 Sep 28. doi: 10.3390/microorganisms9102045
+PMCID: PMC8538333
+
+42:  Evidence for a role of Anopheles stephensi in the spread of drug- and diagnosis-resistant malaria in Africa
+Tadele Emiru, Dejene Getachew, Maxwell Murphy, Luigi Sedda, Legesse Alamerie Ejigu, Mikiyas Gebremichael Bulto, Isabel Byrne, Mulugeta Demisse, Melat Abdo, Wakweya Chali, Aaron Elliott, Eric Neubauer Vickers, Andrés Aranda-Díaz, Lina Alemayehu, Sinknesh W. Behaksera, Gutema Jebessa, Hunduma Dinka, Tizita Tsegaye, Hiwot Teka, Sheleme Chibsa, Peter Mumba, Samuel Girma, Jimee Hwang, Melissa Yoshimizu, Alice Sutcliffe, Hiwot Solomon Taffese, Gudissa Aseffa Bayissa, Sarah Zohdy, Jon Eric Tongren, Chris Drakeley, Bryan Greenhouse, Teun Bousema, Fitsum G. Tadesse
+Nat Med. 2023; 29(12): 3203–3211.  Published online 2023 Oct 26. doi: 10.1038/s41591-023-02641-9
+PMCID: PMC10719088
+
+43:  Therapeutic efficacy of artemether-lumefantrine, artesunate-amodiaquine and dihydroartemisinin-piperaquine in the treatment of uncomplicated Plasmodium falciparum malaria in Sub-Saharan Africa: A systematic review and meta-analysis
+Karol Marwa, Anthony Kapesa, Vito Baraka, Evelyne Konje, Benson Kidenya, Jackson Mukonzo, Erasmus Kamugisha, Gote Swedberg
+PLoS One. 2022; 17(3): e0264339.  Published online 2022 Mar 10. doi: 10.1371/journal.pone.0264339
+PMCID: PMC8912261
+
+44:  Characterization of pfmdr1, pfcrt, pfK13, pfubp1, and pfap2mu in Travelers Returning from Africa with Plasmodium falciparum Infections Reported in China from 2014 to 2018
+Jun Feng, Dongmei Xu, Xiangli Kong, Kangming Lin, He Yan, Xinyu Feng, Hong Tu, Zhigui Xia
+Antimicrob Agents Chemother. 2021 Jul; 65(7): e02717-20.  Prepublished online 2021 Apr 26. Published online 2021 Jun 17. doi: 10.1128/AAC.02717-20
+PMCID: PMC8218672
+
+45:  Effectiveness of Intermittent Preventive Treatment with Sulfadoxine-Pyrimethamine in Pregnancy: Low Coverage and High Prevalence of Plasmodium falciparum dhfr-dhps Quintuple Mutants as Major Challenges in Douala, an Urban Setting in Cameroon
+Carole Else Eboumbou Moukoko, Loick Pradel Kojom Foko, Angèle Ayina, Bernard Tornyigah, Annie Rachel Epote, Ida Calixte Penda, Patricia Epee Eboumbou, Serge Bruno Ebong, Gaetan Texier, Sandrine Eveline Nsango, Lawrence Ayong, Nicaise Tuikue Ndam, Albert Same Ekobo
+Pathogens. 2023 Jun; 12(6): 844.  Published online 2023 Jun 19. doi: 10.3390/pathogens12060844
+PMCID: PMC10300915
+
+46:  High-Complexity Plasmodium falciparum Infections, North Central Nigeria, 2015–2018
+Bitrus Yakubu, Ishaya Yohanna Longdet, Horsfall Jen Tony, Dinchi Tyem Davou, Emmanuel Obishakin
+Emerg Infect Dis. 2019 Jul; 25(7): 1330–1338.  doi: 10.3201/eid2507.181614
+PMCID: PMC6590735
+
+47:  Defining the next generation of severe malaria treatment: a target product profile
+Jane Achan, Aïssata Barry, Didier Leroy, George Kamara, Stephan Duparc, Wiweka Kaszubska, Preetam Gandhi, Bénédicte Buffet, Patrick Tshilab, Bernhards Ogutu, Terrie Taylor, Sanjeev Krishna, Naomi Richardson, Hanu Ramachandruni, Hans Rietveld
+Malar J. 2024; 23: 174.  Published online 2024 Jun 5. doi: 10.1186/s12936-024-04986-z
+PMCID: PMC11151482
+
+48:  Temporal genomic analysis of Plasmodium falciparum reveals increased prevalence of mutations associated with delayed clearance following treatment with artemisinin-lumefantrine in Choma District, Southern Province, Zambia
+Abebe A. Fola, Tamaki Kobayashi, Timothy Shields, Harry Hamapumbu, Michael Musonda, Ben Katowa, Japhet Matoba, Jennifer C. Stevenson, Douglas E. Norris, Philip E. Thuma, Amy Wesolowski, William J. Moss, Jonathan J. Juliano, Jeffrey A. Bailey
+Version 1. medRxiv. Preprint. 2024 Jun 6. doi: 10.1101/2024.06.05.24308497
+PMCID: PMC11178023
+
+49:  Characterization of putative drug resistant biomarkers in Plasmodium falciparum isolated from Ghanaian blood donors
+Enoch Aninagyei, Kwabena Obeng Duedu, Tanko Rufai, Comfort Dede Tetteh, Margaretta Gloria Chandi, Paulina Ampomah, Desmond Omane Acheampong
+BMC Infect Dis. 2020; 20: 533.  Published online 2020 Jul 22. doi: 10.1186/s12879-020-05266-2
+PMCID: PMC7376723
+
+50:  Prevalence of pfk13 and pfmdr1 polymorphisms in Bounkiling, Southern Senegal
+Ambroise Ahouidi, Rafael Oliveira, Lis Lobo, Cyrille Diedhiou, Souleymane Mboup, Fatima Nogueira
+PLoS One. 2021; 16(3): e0249357.  Published online 2021 Mar 26. doi: 10.1371/journal.pone.0249357
+PMCID: PMC7996989
+
+51:  Late clinical failure associated with cytochrome b codon 268 mutation during treatment of falciparum malaria with atovaquone–proguanil in traveller returning from Congo
+Laurencie Massamba, Marylin Madamet, Nicolas Benoit, Alicia Chevalier, Isabelle Fonta, Véronique Mondain, Pierre-Yves Jeandel, Rémy Amalvict, Pascal Delaunay, Joel Mosnier, Pierre Marty, Christelle Pomares, Bruno Pradines
+Malar J. 2020; 19: 37.  Published online 2020 Jan 21. doi: 10.1186/s12936-020-3126-y
+PMCID: PMC6975030
+
+52:  Screening for antifolate and artemisinin resistance in Plasmodium falciparum dried-blood spots from three hospitals of Eritrea
+Harriet Natabona Mukhongo, Johnson Kang'ethe Kinyua, Yishak Gebrekidan Weldemichael, Remmy Wekesa Kasili
+Version 4. F1000Res. 2021; 10: 628.  Published online 2024 Jun 12. doi: 10.12688/f1000research.54195.4
+PMCID: PMC11150900
+
+53:  Sanger sequencing and deconvolution of polyclonal infections: a quantitative approach to monitor drug-resistant Plasmodium falciparum
+Hamma Maiga, Robert D. Morrison, Patrick E. Duffy
+eBioMedicine. 2024 May; 103: 105115.  Published online 2024 Apr 17. doi: 10.1016/j.ebiom.2024.105115
+PMCID: PMC11031737
+
+54:  Artemether-lumefantrine treatment failure of uncomplicated Plasmodium falciparum malaria in travellers coming from Angola and Mozambique
+André Silva-Pinto, João Domingos, Margarida Cardoso, Ana Reis, Ernest Diez Benavente, João Paulo Caldas, Cláudia Conceição, Cristina Toscano, Teresa Baptista-Fernandes, Taane G. Clark, Kamal Mansinho, Susana Campino, Fatima Nogueira
+Int J Infect Dis. 2021 Sep; 110: 151–154.  doi: 10.1016/j.ijid.2021.07.008
+PMCID: PMC8461077
+
+55:  Impact of treatment and re-treatment with artemether-lumefantrine and artesunate-amodiaquine on selection of Plasmodium falciparum multidrug resistance gene-1 polymorphisms in the Democratic Republic of Congo and Uganda
+Vito Baraka, Hypolite Muhindo Mavoko, Carolyn Nabasumba, Filbert Francis, Pascal Lutumba, Michael Alifrangis, Jean-Pierre Van geertruyden
+PLoS One. 2018; 13(2): e0191922.  Published online 2018 Feb 1. doi: 10.1371/journal.pone.0191922
+PMCID: PMC5794077
+
+56:  Surveillance of Genetic Variations Associated with Antimalarial Resistance of Plasmodium falciparum Isolates from Returned Migrant Workers in Wuhan, Central China
+Yi Yao, Kai Wu, Mingxing Xu, Yan Yang, Yijing Zhang, Wenjing Yang, Ronghua Shang, Weixing Du, Huabing Tan, Jiangtao Chen, Min Lin, Jian Li
+Antimicrob Agents Chemother. 2018 Sep; 62(9): e02387-17.  Prepublished online 2018 Jun 25. Published online 2018 Aug 27. doi: 10.1128/AAC.02387-17
+PMCID: PMC6125563
+
+57:  First Detection in West Africa of a Mutation That May Contribute to Artemisinin Resistance Plasmodium falciparum
+Hui Zhao, Liang Pi, Luyi Zhao, Yucheng Qin, Weilin Zeng, Zheng Xiang, Qi Yang, Maohua Pan, Xinxin Li, Chunyan Zou, Xi Chen, Wei Zhao, Yuxin Lu, Yanrui Wu, Mengxi Duan, Xun Wang, Xiaosong Li, Dominique Mazier, Yaming Huang, Zhaoqing Yang
+Front Genet. 2021; 12: 701750.  Published online 2021 Oct 8. doi: 10.3389/fgene.2021.701750
+PMCID: PMC8531651
+
+58:  Molecular Surveillance for Imported Antimicrobial Resistant Plasmodium falciparum, Ontario, Canada
+Ruwandi Kariyawasam, Rachel Lau, Eric Shao, Katherine Tan, Adrienne Showler, Filip Ralevski, Samir N. Patel, Andrea K. Boggild
+Emerg Infect Dis. 2022 Apr; 28(4): 812–819.  doi: 10.3201/eid2804.210533
+PMCID: PMC8962893
+
+59:  Identification of Single-Nucleotide Polymorphisms in the Mitochondrial Genome and Kelch 13 Gene of Plasmodium falciparum in Different Geographical Populations
+Tine Kliim Nydahl, Samuel Yao Ahorhorlu, Magatte Ndiaye, Manoj Kumar Das, Helle Hansson, Marina Crespo Bravo, Christian William Wang, John Lusingu, Michael Theisen, Susheel Kumar Singh, Subhash Singh, Susana Campino, Ole Lund, Cally Roper, Michael Alifrangis
+Am J Trop Med Hyg. 2021 Oct; 105(4): 1085–1092.  Published online 2021 Jul 16. doi: 10.4269/ajtmh.21-0320
+PMCID: PMC8592148
+
+60:  Antimalarial Mechanisms and Resistance Status of Artemisinin and Its Derivatives
+Dan Zheng, Tingting Liu, Shasha Yu, Zhilong Liu, Jing Wang, Ying Wang
+Trop Med Infect Dis. 2024 Sep; 9(9): 223.  Published online 2024 Sep 20. doi: 10.3390/tropicalmed9090223
+PMCID: PMC11435542
+
+61:  Plasmodium falciparum merozoite invasion ligands, linked antimalarial resistance loci and ex vivo responses to antimalarials in The Gambia
+Haddijatou Mbye, Karim Mane, Mouhamadou Fadel Diop, Martha Anita Demba, Fatoumata Bojang, Nuredin Ibrahim Mohammed, David Jeffries, Neils Ben Quashie, Umberto D’Alessandro, Alfred Amambua-Ngwa
+J Antimicrob Chemother. 2022 Nov; 77(11): 2946–2955.  Published online 2022 Jul 29. doi: 10.1093/jac/dkac244
+PMCID: PMC9616547
+
+62:  Molecular markers associated with drug resistance in Plasmodium falciparum parasites in central Africa between 2016 and 2021
+Wenjie Xu, Xuan Zhang, Hualiang Chen, Jiaqi Zhang, Qiaoyi Lu, Wei Ruan, Xiaoxiao Wang
+Front Public Health. 2023; 11: 1239274.  Published online 2023 Aug 30. doi: 10.3389/fpubh.2023.1239274
+PMCID: PMC10499197
+
+63:  Allelic frequencies of mutants of the Plasmodium falciparum, quinoline and folate metabolizing genes in the west region of Cameroon
+Innocent Mbulli Ali, Valery Pacome Kom Tchuenkam, Sandra Sob Tagomo, Hornela Mawamba, Marcel Nyuylam Moyeh, Emmanuel Nfor Nfor, Akindeh Mbuh Nji, Calvino Tah Fomboh, William Dorian Nana, Jean-Paul Chedjou Kengne, Peter Thelma Ngwa Niba, Germaine Ekobo Ekoyol, Dorothy Fosah Achu, Jude Daiga Bigoga, Wilfred Fon Mbacham
+Heliyon. 2022 Nov; 8(11): e11861.  Published online 2022 Nov 23. doi: 10.1016/j.heliyon.2022.e11861
+PMCID: PMC9703601
+
+64:  Malaria Risk and Prevention in Asian Migrants to Angola
+José Franco Martins, Cátia Marques, Benjamin Nieto-Andrade, Julia Kelley, Dhruviben Patel, Doug Nace, Camelia Herman, Joel Barratt, Gabriel Ponce de León, Eldin Talundzic, Eric Rogier, Eric S. Halsey, Mateusz M. Plucinski
+Am J Trop Med Hyg. 2020 Nov; 103(5): 1918–1926.  Published online 2020 Aug 17. doi: 10.4269/ajtmh.20-0706
+PMCID: PMC7646810
+
+65:  Two decades of molecular surveillance in Senegal reveal rapid changes in known drug resistance mutations over time
+Yaye D. Ndiaye, Wesley Wong, Julie Thwing, Stephen F. Schaffner, Katelyn Vendrely Brenneman, Abdoulaye Tine, Mamadou A. Diallo, Awa B. Deme, Mouhamad Sy, Amy K. Bei, Alphonse B. Thiaw, Rachel Daniels, Tolla Ndiaye, Amy Gaye, Ibrahima M. Ndiaye, Mariama Toure, Nogaye Gadiaga, Aita Sene, Djiby Sow, Mamane N. Garba, Mamadou S. Yade, Baba Dieye, Khadim Diongue, Daba Zoumarou, Aliou Ndiaye, Jules F. Gomis, Fatou B. Fall, Medoune Ndiop, Ibrahima Diallo, Doudou Sene, Bronwyn Macinnis, Mame C. Seck, Mouhamadou Ndiaye, Bassirou Ngom, Younouss Diedhiou, Amadou M. Mbaye, Lamine Ndiaye, Ngayo Sy, Aida S. Badiane, Daniel L. Hartl, Dyann F. Wirth, Sarah K. Volkman, Daouda Ndiaye
+Malar J. 2024; 23: 205.  Published online 2024 Jul 9. doi: 10.1186/s12936-024-05024-8
+PMCID: PMC11234717
+
+66:  Prevalence of mutations in the Plasmodium falciparum chloroquine resistance transporter, PfCRT, and association with ex vivo susceptibility to common anti-malarial drugs against African Plasmodium falciparum isolates
+Francis Tsombeng Foguim, Hervé Bogreau, Mathieu Gendrot, Joel Mosnier, Isabelle Fonta, Nicolas Benoit, Rémy Amalvict, Marylin Madamet, Sharon Wein, Bruno Pradines, The French National Reference Centre for Imported Malaria Study Group
+Malar J. 2020; 19: 201.  Published online 2020 Jun 5. doi: 10.1186/s12936-020-03281-x
+PMCID: PMC7275453
+
+67:  Current Epidemiological Characteristics of Imported Malaria, Vector Control Status and Malaria Elimination Prospects in the Gulf Cooperation Council (GCC) Countries
+Jamshaid Iqbal, Suhail Ahmad, Ali Sher, Mohammad Al-Awadhi
+Microorganisms. 2021 Jul; 9(7): 1431.  Published online 2021 Jul 2. doi: 10.3390/microorganisms9071431
+PMCID: PMC8307262
+
+68:  Designing hybrid CRISPR-Cas12 and LAMP detection systems for treatment-resistant Plasmodium falciparum with in silico method
+Arli A. Parikesit, Rio Hermantara, Kevin Gregorius, Elizabeth Siddharta
+Narra J. 2023 Dec; 3(3): e301.  Published online 2023 Dec 25. doi: 10.52225/narra.v3i3.301
+PMCID: PMC10919703
+
+69:  Prevalence of Mutations in the pfcoronin Gene and Association with Ex Vivo Susceptibility to Common Quinoline Drugs against Plasmodium falciparum
+Océane Delandre, Mathieu Gendrot, Isabelle Fonta, Joel Mosnier, Nicolas Benoit, Rémy Amalvict, Nicolas Gomez, Marylin Madamet, Bruno Pradines
+Pharmaceutics. 2021 Aug; 13(8): 1273.  Published online 2021 Aug 17. doi: 10.3390/pharmaceutics13081273
+PMCID: PMC8400718
+
+70:  Past and current biological factors affecting malaria in the low transmission setting of Botswana: A review
+Zackary Austin Bango, Leabaneng Tawe, Charles Waithaka Muthoga, Giacomo Maria Paganotti
+Infect Genet Evol. 2020 Nov; 85: 104458.  Published online 2020 Jul 12. doi: 10.1016/j.meegid.2020.104458
+PMCID: PMC7354381
+
+71:  Analysis of Plasmodium falciparum Na+/H+ exchanger (pfnhe1) polymorphisms among imported African malaria parasites isolated in Wuhan, Central China
+Kai Wu, Yi Yao, Fang Chen, Mingxing Xu, Guangquan Lu, Tingting Jiang, Ziyu Liu, Weixing Du, Fang Li, Rugui Li, Huabing Tan, Jian Li
+BMC Infect Dis. 2019; 19: 354.  Published online 2019 Apr 29. doi: 10.1186/s12879-019-3921-7
+PMCID: PMC6489200
+
+72:  Genomic malaria surveillance of antenatal care users detects reduced transmission following elimination interventions in Mozambique
+Nanna Brokhattingen, Glória Matambisso, Clemente da Silva, Eric Neubauer Vickers, Arnau Pujol, Henriques Mbeve, Pau Cisteró, Sónia Maculuve, Boaventura Cuna, Cardoso Melembe, Nelo Ndimande, Brian Palmer, Manuel García-Ulloa, Humberto Munguambe, Júlia Montaña-Lopez, Lidia Nhamussua, Wilson Simone, Arlindo Chidimatembue, Beatriz Galatas, Caterina Guinovart, Eduard Rovira-Vallbona, Francisco Saúte, Pedro Aide, Andrés Aranda-Díaz, Bryan Greenhouse, Eusébio Macete, Alfredo Mayor
+Nat Commun. 2024; 15: 2402.  Published online 2024 Mar 16. doi: 10.1038/s41467-024-46535-x
+PMCID: PMC10944499
+
+73:  Increasing incidence of Plasmodium ovale and persistent reporting of Plasmodium vivax in imported malaria cases: an analysis of 9-year surveillance data in four areas of China
+Xiaoxiao Wang, Wenjie Xu, Fei Luo, Kangming Lin, Tao Zhang, Linong Yao, Xuan Zhang, Jiaqi Zhang, Sarah Auburn, Duoquan Wang, Wei Ruan
+Front Public Health. 2023; 11: 1203095.  Published online 2023 Jun 28. doi: 10.3389/fpubh.2023.1203095
+PMCID: PMC10338171
+
+74:  High Frequency Mutations in pfdhfr and pfdhps of Plasmodium falciparum in Response to Sulfadoxine-Pyrimethamine: A Cross-Sectional Survey in Returning Chinese Migrants From Africa
+He Yan, Jun Feng, Jian-hai Yin, Fang Huang, Xiang-li Kong, Kang-ming Lin, Tao Zhang, Xin-yu Feng, Shui-sen Zhou, Jian-ping Cao, Zhi-gui Xia
+Front Cell Infect Microbiol. 2021; 11: 673194.  Published online 2021 Sep 8. doi: 10.3389/fcimb.2021.673194
+PMCID: PMC8456993
+
+75:  Genomic surveillance of malaria parasites in an indigenous community in the Peruvian Amazon
+Luis Cabrera-Sosa, Oscar Nolasco, Johanna H. Kattenberg, Carlos Fernandez-Miñope, Hugo O. Valdivia, Keare Barazorda, Silvia Arévalo de los Rios, Hugo Rodriguez-Ferrucci, Joseph M. Vinetz, Anna Rosanas-Urgell, Jean-Pierre Van geertruyden, Dionicia Gamboa, Christopher Delgado-Ratto
+Version 1. Res Sq. Preprint. 2024 Feb 29. doi: 10.21203/rs.3.rs-3979991/v1Published in: Sci Rep. 2024; 14: 16291. 
+PMCID: PMC10925399
+
+76:  Evidence of artemisinin partial resistance in North-western Tanzania: clinical and drug resistance markers study
+Deus S. Ishengoma, Celine I. Mandara, Catherine Bakari, Abebe A. Fola, Rashid A. Madebe, Misago D. Seth, Filbert Francis, Creyton Buguzi, Ramadhan Moshi, Issa Garimo, Samwel Lazaro, Abdallah Lusasi, Sijenunu Aaron, Frank Chacky, Ally Mohamed, Ritha J. A. Njau, Jovin Kitau, Charlotte Rasmussen, Jeffrey A. Bailey, Jonathan J. Juliano, Marian Warsame
+Version 1. medRxiv. Preprint. 2024 Feb 1. doi: 10.1101/2024.01.31.24301954Published in: Lancet Infect Dis. 2024 Aug 16 
+PMCID: PMC10863006
+
+77:  Population genomics in neglected malaria parasites
+Awtum M. Brashear, Liwang Cui
+Front Microbiol. 2022; 13: 984394.  Published online 2022 Sep 8. doi: 10.3389/fmicb.2022.984394
+PMCID: PMC9493318
+
+78:  Absence of a High Level of Duplication of the Plasmepsin II Gene in Africa
+Marie Gladys Robert, Francis Foguim Tsombeng, Mathieu Gendrot, Joel Mosnier, Rémy Amalvict, Nicolas Benoit, Marylin Torrentino-Madamet, Bruno Pradines, the French National Reference Centre for Imported Malaria Study Group
+
+Antimicrob Agents Chemother. 2018 Nov; 62(11): e00374-18.  Prepublished online 2018 Sep 4. Published online 2018 Oct 24. doi: 10.1128/AAC.00374-18
+PMCID: PMC6201094
+
+79:  Genomic surveillance of malaria parasites in an indigenous community in the Peruvian Amazon
+Luis Cabrera-Sosa, Oscar Nolasco, Johanna H. Kattenberg, Carlos Fernandez-Miñope, Hugo O. Valdivia, Keare Barazorda, Silvia Arévalo de los Rios, Hugo Rodriguez-Ferrucci, Joseph M. Vinetz, Anna Rosanas-Urgell, Jean-Pierre Van geertruyden, Dionicia Gamboa, Christopher Delgado-Ratto
+Sci Rep. 2024; 14: 16291.  Published online 2024 Jul 15. doi: 10.1038/s41598-024-66925-x
+PMCID: PMC11250820
+
+80:  Genetic polymorphism of histidine rich protein 2 in Plasmodium falciparum isolates from different infection sources in Yunnan Province, China
+Ying Dong, Shuping Liu, Yan Deng, Yanchun Xu, Mengni Chen, Yan Liu, Jingpo Xue
+Malar J. 2019; 18: 446.  Published online 2019 Dec 30. doi: 10.1186/s12936-019-3084-4
+PMCID: PMC6937805
+
+81:  Polymorphism analysis of propeller domain of k13 gene in Plasmodium ovale curtisi and Plasmodium ovale wallikeri isolates original infection from Myanmar and Africa in Yunnan Province, China
+Mengni Chen, Ying Dong, Yan Deng, Yanchun Xu, Yan Liu, Canglin Zhang, Herong Huang
+Malar J. 2020; 19: 246.  Published online 2020 Jul 13. doi: 10.1186/s12936-020-03317-2
+PMCID: PMC7359257
+
+82:  Sensitive Detection of Asymptomatic and Symptomatic Malaria with Seven Novel Parasite-Specific LAMP Assays and Translation for Use at Point-of-Care
+Kenny Malpartida-Cardenas, Nicolas Moser, Felix Ansah, Ivana Pennisi, Diana Ahu Prah, Linda Eva Amoah, Gordon Awandare, Julius Clemence R. Hafalla, Aubrey Cunnington, Jake Baum, Jesus Rodriguez-Manzano, Pantelis Georgiou
+Microbiol Spectr. 2023 May-Jun; 11(3): e05222-22.  Published online 2023 May 9. doi: 10.1128/spectrum.05222-22
+PMCID: PMC10269850
+
+83:  Two decades of molecular surveillance in Senegal reveal changes in known drug resistance mutations associated with historical drug use and seasonal malaria chemoprevention
+Yaye Die NDIAYE, Wesley WONG, Julie THWING, Stephen S SCHAFFNER, Abdoulaye TINE, Mamadou Alpha DIALLO, Awa DEME, Mouhammad SY, Amy K Bei, Alphonse B THIAW, Rachel DANIELS, Tolla NDIAYE, Amy GAYE, Ibrahima Mbaye NDIAYE, Mariama TOURE, Nogaye GADIAGA, Aita SENE, Djiby SOW, Mamane N. GARBA, Mamadou Samba YADE, Baba DIEYE, Khadim DIONGUE, Daba ZOUMAROU, Aliou NDIAYE, Jules GOMIS, Fatou Ba FALL, Medoune NDIOP, Ibrahima DIALLO, Doudou SENE, Bronwyn MACINNIS, Mame Cheikh SECK, Mouhamadou NDIAYE, Aida S BADIANE, Daniel L. HARTL, Sarah K. VOLKMAN, Dyann F. WIRTH, Daouda NDIAYE
+Version 1. medRxiv. Preprint. 2023 Apr 26. doi: 10.1101/2023.04.24.23288820Published in: Malar J. 2024; 23: 205. 
+PMCID: PMC10168519
+
+84:  The emergence of chloroquine-sensitive Plasmodium falciparum is influenced by selected communities in some parts of the Central Region of Ghana
+Kwame Kumi Asare, Justice Africa, Jennifer Mbata, Yeboah Kwaku Opoku
+Malar J. 2021; 20: 447.  Published online 2021 Nov 25. doi: 10.1186/s12936-021-03985-8
+PMCID: PMC8620919
+
+85:  Steep Rebound of Chloroquine-Sensitive Plasmodium falciparum in Zimbabwe
+Sungano Mharakurwa, Zvifadzo Matsena-Zingoni, Nobert Mudare, Charmaine Matimba, Tanatswa Xuxa Gara, Aramu Makuwaza, Gladys Maponga, Shungu Munyati, Lovemore Gwanzura, Susan L Mutambu, Peter Mason, Tamaki Kobayashi, Nicholas Midzi, William J Moss, Matthew M Ippolito
+J Infect Dis. 2021 Jan 15; 223(2): 306–309.  Published online 2020 Jun 28. doi: 10.1093/infdis/jiaa368
+PMCID: PMC7857352
+
+86:  Mining-Associated Malaria Epidemics
+G. Dennis Shanks, Chansuda Wongsrichanalai
+Am J Trop Med Hyg. 2022 Jan; 106(1): 33–37.  Published online 2021 Nov 29. doi: 10.4269/ajtmh.21-0747
+PMCID: PMC8733498
+
+87:  Natural Products That Changed Society
+Søren Brøgger Christensen
+Biomedicines. 2021 May; 9(5): 472.  Published online 2021 Apr 26. doi: 10.3390/biomedicines9050472
+PMCID: PMC8146924
+
+88:  Increasing challenges of malaria control in sub-Saharan Africa: Priorities for public health research and policymakers
+Habeebullah Jayeola Oladipo, Yusuf Amuda Tajudeen, Iyiola Olatunji Oladunjoye, Sodiq Inaolaji Yusuff, Rashidat Onyinoyi Yusuf, Egbewande Muyiwa Oluwaseyi, Muili Opeyemi AbdulBasit, Yusuff Adebayo Adebisi, Mona Said El-Sherbini
+Ann Med Surg (Lond) 2022 Sep; 81: 104366.  Published online 2022 Aug 18. doi: 10.1016/j.amsu.2022.104366
+PMCID: PMC9421173
+
+89:  Genomic malaria surveillance of antenatal care users detects reduced transmission following elimination interventions in Mozambique
+Alfredo Mayor, Nanna Brokhattingen, Gloria Matambisso, Clemente da Silva, Eric Neubauer Vickers, Arnau Pujol, Henriques Mbeve, Pau Cistero, Sonia Maculuve, Boaventura Cuna, Cardoso Melembe, Nelo Ndimande, Brian Palmer, Manuel García, Humberto Munguambe, Julia Montana Lopez, Lidia Nhamussa, Wilson Simone, Arlindo Chidimatembue, Beatriz Galatas, Caterina Guinovart, Eduard Rovira-Vallbona, Francisco Saute, Pedro Aide, Andrés Aranda-Díaz, Bryan Greenhouse, Eusebio Macete
+Version 1. Res Sq. Preprint. 2023 Nov 15. doi: 10.21203/rs.3.rs-3545903/v1Published in: Nat Commun. 2024; 15: 2402. 
+PMCID: PMC10680916
+
+90:  Urine and Saliva: Relevant Specimens for Malaria Diagnosis?
+Hwa Chia Chai, Kek Heng Chua
+Diagnostics (Basel) 2022 Dec; 12(12): 2989.  Published online 2022 Nov 29. doi: 10.3390/diagnostics12122989
+PMCID: PMC9777261
+
