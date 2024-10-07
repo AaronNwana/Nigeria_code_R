@@ -557,18 +557,18 @@ act$dates_act <- seq(as.Date("2015/1/15"), as.Date("2024/05/24"), by = "month")
 ggplot(act, aes(x = dates_act)) +
   
   # First line for Persons with Confirmed Uncomplicated Malaria treated with ACT
-  geom_line(aes(y = Persons.with.Confirmed.Uncomplicated.Malaria.treated.with.ACT, color = "ACT Cases"), linewidth = 1.2)+
+  geom_line(aes(y = Persons.with.Confirmed.Uncomplicated.Malaria.treated.with.ACT, color = "ACT treatment"), linewidth = 1.2)+
   
   # Second line for Confirmed uncomplicated Malaria cases
   geom_line(aes(y = Confirmed.uncomplicated.Malaria, color = "Malaria Cases"), linewidth = 1.2) +
   
   # Labels and title
-  labs(title = "Malaria Cases & ACT Distributed Over Time", 
+  labs(title = "", 
        x = "Time (months)", 
        y = "Number of Cases") +
   
   # Customize colors
-  scale_color_manual(values = c("ACT Cases" = "blue", "Malaria Cases" = "red")) +
+  scale_color_manual(values = c("ACT treatment" = "blue", "Malaria Cases" = "red")) +
   
   # Format the x-axis for dates
   scale_x_date(date_labels = "%b %Y", date_breaks = "1 year") +
@@ -578,10 +578,11 @@ ggplot(act, aes(x = dates_act)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 ################################################################################
 # Corrected ggplot code to show only ACT cases
-ggplot(act, aes(x = dates_act)) +
+act$dates_act <- seq(as.Date("2015/1/15"), as.Date("2024/05/24"), by = "month")
+act1<-ggplot(act, aes(x = dates_act)) +
   
   # Plotting ACT treatment line
-  geom_line(aes(y = Persons.with.Confirmed.Uncomplicated.Malaria.treated.with.ACT, color = "ACT treatment"), size = 1.2) +  
+  geom_line(aes(y = Persons.with.Confirmed.Uncomplicated.Malaria.treated.with.ACT, color = "ACT treatment"), linewidth = 1.2) +  
   
   # Labels and title
   labs(title = "", 
@@ -589,7 +590,7 @@ ggplot(act, aes(x = dates_act)) +
        y = "Number of cases treated with ACT") +
   
   # Customize colors
-  scale_color_manual(values = c("ACT treatment" = "blue")) +
+  scale_color_manual(values = c("ACT treatment" = "blue"), name="") +
   
   # Format the x-axis for dates
   scale_x_date(date_labels = "%b %Y", date_breaks = "1 year") +
@@ -597,6 +598,27 @@ ggplot(act, aes(x = dates_act)) +
   # Theme adjustments for better visualization
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
+#######################################################################
+# Corrected ggplot code to show only Cases
+act$dates_act <- seq(as.Date("2015/1/15"), as.Date("2024/05/24"), by = "month")
+cases2<-ggplot(act, aes(x = dates_act)) +
+  geom_line(aes(y = Confirmed.uncomplicated.Malaria, color = "Malaria Cases"), linewidth = 1.2) +  
+  labs(title = "", 
+       x = "Time (months)", 
+       y = "Number of uncomplicated malaria cases") +
+  scale_color_manual(values = c("Malaria Cases" = "red"), name="") +
+  scale_x_date(date_labels = "%b %Y", date_breaks = "1 year") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Using gridExtra
+library(gridExtra)
+grid.arrange(cases2, act1, ncol = 2)
+
+# Or using patchwork
+library(patchwork)
+cases2 + act1
+
 ###############################################################
 # Corrected ggplot code to show ACT cases as a bar plot
 ggplot(act, aes(x = dates_act, y = Persons.with.Confirmed.Uncomplicated.Malaria.treated.with.ACT)) +
